@@ -1,38 +1,38 @@
 {
-    "sites": [
-        [
-            "https://www.tickpick.com/boston-celtics-tickets/",
-            "https://www.tickpick.com/brooklyn-nets-tickets/",
-            "https://www.tickpick.com/new-york-knicks-tickets/",
-            "https://www.tickpick.com/philadelphia-76ers-tickets/",
-            "https://www.tickpick.com/toronto-raptors-tickets/",
-            "https://www.tickpick.com/chicago-bulls-tickets/",
-            "https://www.tickpick.com/cleveland-cavaliers-tickets/",
-            "https://www.tickpick.com/detroit-pistons-tickets/",
-            "https://www.tickpick.com/indiana-pacers-tickets/",
-            "https://www.tickpick.com/milwaukee-bucks-tickets/",
-            "https://www.tickpick.com/atlanta-hawks-tickets/",
-            "https://www.tickpick.com/charlotte-hornets-tickets/",
-            "https://www.tickpick.com/miami-heat-tickets/",
-            "https://www.tickpick.com/orlando-magic-tickets/",
-            "https://www.tickpick.com/washington-wizards-tickets/",
-            "https://www.tickpick.com/denver-nuggets-tickets/",
-            "https://www.tickpick.com/minnesota-timberwolves-tickets/",
-            "https://www.tickpick.com/oklahoma-city-thunder-tickets/",
-            "https://www.tickpick.com/portland-trail-blazers-tickets/",
-            "https://www.tickpick.com/utah-jazz-tickets/",
-            "https://www.tickpick.com/golden-state-warriors-tickets/",
-            "https://www.tickpick.com/los-angeles-clippers-tickets/",
-            "https://www.tickpick.com/los-angeles-lakers-tickets/",
-            "https://www.tickpick.com/phoenix-suns-tickets/",
-            "https://www.tickpick.com/sacramento-kings-tickets/",
-            "https://www.tickpick.com/dallas-mavericks-tickets/",
-            "https://www.tickpick.com/houston-rockets-tickets/",
-            "https://www.tickpick.com/memphis-grizzlies-tickets/",
-            "https://www.tickpick.com/new-orleans-pelicans-tickets/",
-            "https://www.tickpick.com/san-antonio-spurs-tickets/"
-        ],
-            [
+  "sites": [
+    [
+      "https://www.tickpick.com/boston-celtics-tickets/",
+      "https://www.tickpick.com/brooklyn-nets-tickets/",
+      "https://www.tickpick.com/new-york-knicks-tickets/",
+      "https://www.tickpick.com/philadelphia-76ers-tickets/",
+      "https://www.tickpick.com/toronto-raptors-tickets/",
+      "https://www.tickpick.com/chicago-bulls-tickets/",
+      "https://www.tickpick.com/cleveland-cavaliers-tickets/",
+      "https://www.tickpick.com/detroit-pistons-tickets/",
+      "https://www.tickpick.com/indiana-pacers-tickets/",
+      "https://www.tickpick.com/milwaukee-bucks-tickets/",
+      "https://www.tickpick.com/atlanta-hawks-tickets/",
+      "https://www.tickpick.com/charlotte-hornets-tickets/",
+      "https://www.tickpick.com/miami-heat-tickets/",
+      "https://www.tickpick.com/orlando-magic-tickets/",
+      "https://www.tickpick.com/washington-wizards-tickets/",
+      "https://www.tickpick.com/denver-nuggets-tickets/",
+      "https://www.tickpick.com/minnesota-timberwolves-tickets/",
+      "https://www.tickpick.com/oklahoma-city-thunder-tickets/",
+      "https://www.tickpick.com/portland-trail-blazers-tickets/",
+      "https://www.tickpick.com/utah-jazz-tickets/",
+      "https://www.tickpick.com/golden-state-warriors-tickets/",
+      "https://www.tickpick.com/los-angeles-clippers-tickets/",
+      "https://www.tickpick.com/los-angeles-lakers-tickets/",
+      "https://www.tickpick.com/phoenix-suns-tickets/",
+      "https://www.tickpick.com/sacramento-kings-tickets/",
+      "https://www.tickpick.com/dallas-mavericks-tickets/",
+      "https://www.tickpick.com/houston-rockets-tickets/",
+      "https://www.tickpick.com/memphis-grizzlies-tickets/",
+      "https://www.tickpick.com/new-orleans-pelicans-tickets/",
+      "https://www.tickpick.com/san-antonio-spurs-tickets/"
+    ],
+    [
       "https://www.stubhub.com/atlanta-hawks-tickets/performer/6769/",
       "https://www.stubhub.com/boston-celtics-tickets/performer/2744/",
       "https://www.stubhub.com/brooklyn-nets-tickets/performer/6770/",
@@ -64,6 +64,6 @@
       "https://www.stubhub.com/utah-jazz-tickets/performer/3082/",
       "https://www.stubhub.com/washington-wizards-tickets/performer/2770/"
     ],
-        "https://gametime.co/nba-basketball-tickets"
-    ]
+    "https://gametime.co/nba-basketball-tickets"
+  ]
 }
