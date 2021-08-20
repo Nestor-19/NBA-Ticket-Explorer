@@ -1,14 +1,13 @@
-import sys
-import os
-from pathlib import Path
-
-def getPlatform():
-    baseDir = Path(__file__).resolve().parent.parent / 'chromeDrivers'
-    if sys.platform == 'win32':
-        return baseDir / "Windows" / "chromedriver.exe"
-    elif sys.platform == 'darwin':
-        return baseDir / "Mac" / "chromedriver"
+from selenium import webdriver
+from time import sleep
+from .helperFunctions import getPlatform
 
 CHROMEDRIVER_LOCATION = getPlatform()
 
-print(CHROMEDRIVER_LOCATION)
+chrome_options = webdriver.ChromeOptions()
+chrome_options.add_experimental_option("excludeSwitches", ['enable-automation']) # To remove the "Chrome is being controlled by automated test software" notification
+# chrome_options.add_argument("--headless") # To make The Browser not appear HeadlessChrome
+
+driver = webdriver.Chrome(executable_path = str(CHROMEDRIVER_LOCATION), options = chrome_options)
+driver.get("https://www.instagram.com/")
+sleep(8)
