@@ -1,6 +1,6 @@
 from selenium import webdriver
 from time import sleep
-from .helperFunctions import getPlatform
+from helperFunctions import getPlatform
 
 CHROMEDRIVER_LOCATION = getPlatform()
 
