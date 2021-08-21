@@ -5,8 +5,6 @@ import json
 
 
 CHROMEDRIVER_LOCATION = getPlatform()
-CATCOL1_XPATH = "/html/body/div[5]/div[1]/div[3]/*"
-CATCOL2_XPATH = "/html/body/div[5]/div[1]/div[4]/*"
 
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_experimental_option("excludeSwitches", ['enable-automation']) # To remove the "Chrome is being controlled by automated test software" notification
