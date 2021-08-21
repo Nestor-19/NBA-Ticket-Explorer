@@ -64,6 +64,37 @@
       "https://www.stubhub.com/utah-jazz-tickets/performer/3082/",
       "https://www.stubhub.com/washington-wizards-tickets/performer/2770/"
     ],
-        "https://gametime.co/nba-basketball-tickets"
+    [
+        "https://gametime.co/boston-celtics-tickets/performers/nbabos",
+        "https://gametime.co/brooklyn-nets-tickets/performers/nbabrk",
+        "https://gametime.co/new-york-knicks-tickets/performers/nbanyk",
+        "https://gametime.co/philadelphia-76-ers-tickets/performers/nbaphi",
+        "https://gametime.co/toronto-raptors-tickets/performers/nbator",
+        "https://gametime.co/chicago-bulls-tickets/performers/nbachi",
+        "https://gametime.co/cleveland-cavaliers-tickets/performers/nbacle",
+        "https://gametime.co/detroit-pistons-tickets/performers/nbadet",
+        "https://gametime.co/indiana-pacers-tickets/performers/nbaind",
+        "https://gametime.co/milwaukee-bucks-tickets/performers/nbamil",
+        "https://gametime.co/denver-nuggets-tickets/performers/nbaden",
+        "https://gametime.co/minnesota-timberwolves-tickets/performers/nbamin",
+        "https://gametime.co/oklahoma-city-thunder-tickets/performers/nbaokc",
+        "https://gametime.co/portland-trail-blazers-tickets/performers/nbapor",
+        "https://gametime.co/utah-jazz-tickets/performers/nbauth",
+        "https://gametime.co/golden-state-warriors-tickets/performers/nbagsw",
+        "https://gametime.co/la-clippers-tickets/performers/nbalac",
+        "https://gametime.co/los-angeles-lakers-tickets/performers/nbalal",
+        "https://gametime.co/phoenix-suns-tickets/performers/nbaphx",
+        "https://gametime.co/sacramento-kings-tickets/performers/nbasac",
+        "https://gametime.co/atlanta-hawks-tickets/performers/nbaatl",
+        "https://gametime.co/charlotte-hornets-tickets/performers/nbacha",
+        "https://gametime.co/miami-heat-tickets/performers/nbamia",
+        "https://gametime.co/orlando-magic-tickets/performers/nbaorl",
+        "https://gametime.co/washington-wizards-tickets/performers/nbawas",
+        "https://gametime.co/dallas-mavericks-tickets/performers/nbadal",
+        "https://gametime.co/houston-rockets-tickets/performers/nbahou",
+        "https://gametime.co/memphis-grizzlies-tickets/performers/nbamem",
+        "https://gametime.co/new-orleans-pelicans-tickets/performers/nbano",
+        "https://gametime.co/san-antonio-spurs-tickets/performers/nbasa"
+    ]
     ]
 }
