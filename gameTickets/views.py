@@ -15,9 +15,9 @@ def dashboard(request):
     return render(request, 'dashboard.html', {"teams": data})
 
 
-def tickets(request):
-    return render(request, 'tickets.html')
+def tickets(request, team_name):
+    return render(request, 'tickets.html', {"name": team_name})
 
 
-def tkt(request, team_name):
-    return render(request, 'tkt.html', {"name": team_name})
+# def tkt(request, team_name):
+    # return render(request, 'tkt.html', {"name": team_name})
