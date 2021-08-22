@@ -1,24 +1,47 @@
 <!DOCTYPE html>
 {% load static %}
+{% load my_extras %}
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
     <link rel="stylesheet" href= "{% static 'CSS/dashboard.css' %}" type="text/css">
     <title>Document</title>
 </head>
 <body>
-    <div class="card-container">
-        <div class="card">
-            <div class="imgBx">
-                <img src="https://assets.codepen.io/4164355/shoes.png">
-            </div>
-            <div class="contentBx">
-                <h2>Nike Shoes</h2>
-                <a href="#">Get Tickets</a>
-            </div>
+    <div class = "navbar">
+        <img class = "logo"  src="{% static 'Images/logo.png' %}" alt="">
+        <nav>
+            <ul>
+                <li><a href="#">HOME</a></li>
+                <li><a id = "about" href="#">ABOUT</a></li>
+            </ul>
+        </nav>
+    </div>
+    
+    <div class = "container">
+        <h2>All Teams Tickets</h2>
+        <div id="card-container" class = "row">
+            {% for team in teams %}
+                <div  class = "col-md-4 my-col">
+                    <div class="card-container">
+                        <div class="card">
+                            <div class="imgBx">
+                                <img src="{{teams|ind:team}}">
+                            </div>
+                            <div class="contentBx">
+                                <h2>{{ team }}</h2>
+                                <a href="{% url 'gameTickets:tkt' team_name=team %}">Get Tickets</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
         </div>
     </div>
+    
+    <!-- <script src="{% static 'JS/dashboard.js' %}"></script> -->
 </body>
 </html>
