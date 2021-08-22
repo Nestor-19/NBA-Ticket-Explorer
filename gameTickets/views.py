@@ -1,6 +1,7 @@
 from django.shortcuts import render
 import json
 from SlamDunkHacks.settings import BASE_DIR
+from .getJsonData import getCoverPage
 # Create your views here.
 
 
@@ -16,8 +17,5 @@ def dashboard(request):
 
 
 def tickets(request, team_name):
-    return render(request, 'tickets.html', {"name": team_name})
-
-
-# def tkt(request, team_name):
-    # return render(request, 'tkt.html', {"name": team_name})
+    coverImageUrl = getCoverPage(team_name)
+    return render(request, 'tickets.html', {"name": team_name, "coverImg": coverImageUrl})

@@ -1,0 +1,486 @@
+{
+  "Atlanta Hawks": {
+    "4 OCT, MON": {
+      "title": "Atlanta Hawks at Miami Heat Preseason",
+      "location": "7:30 PM - FTX Arena, Miami, FL, US",
+      "price": "$19"
+    },
+    "21 OCT, THU": {
+      "title": "Dallas Mavericks at Atlanta Hawks",
+      "location": "7:30 PM - State Farm Arena, Atlanta, GA, US",
+      "price": "$176"
+    },
+    "25 DEC, SAT": {
+      "title": "Atlanta Hawks at New York Knicks",
+      "location": "12:00 PM - Madison Square Garden, New York, NY, US",
+      "price": "$252"
+    }
+  },
+  "Boston Celtics": {
+    "13 OCT, WED": {
+      "title": "Boston Celtics at Orlando Magic Preseason",
+      "location": "7:00 PM - Amway Center, Orlando, FL, US",
+      "price": "$35"
+    },
+    "15 OCT, FRI": {
+      "title": "Boston Celtics at Miami Heat Preseason",
+      "location": "8:00 PM - FTX Arena, Miami, FL, US",
+      "price": "$23"
+    },
+    "20 OCT, WED": {
+      "title": "Boston Celtics at New York Knicks",
+      "location": "7:30 PM - Madison Square Garden, New York, NY, US",
+      "price": "$190"
+    },
+    "25 DEC, SAT": {
+      "title": "Boston Celtics at Milwaukee Bucks",
+      "location": "1:30 PM - Fiserv Forum, Milwaukee, WI, US",
+      "price": "$169"
+    }
+  },
+  "Brooklyn Nets": {
+    "3 OCT, SUN": {
+      "title": "Brooklyn Nets at Los Angeles Lakers Preseason",
+      "location": "12:30 PM - STAPLES Center, Los Angeles, CA, US",
+      "price": "$90"
+    },
+    "8 OCT, FRI": {
+      "title": "Milwaukee Bucks at Brooklyn Nets Preseason",
+      "location": "7:30 PM - Barclays Center, Brooklyn, NY, US",
+      "price": "$74"
+    },
+    "14 OCT, THU": {
+      "title": "Minnesota Timberwolves at Brooklyn Nets Preseason",
+      "location": "7:30 PM - Barclays Center, Brooklyn, NY, US",
+      "price": "$59"
+    },
+    "19 OCT, TUE": {
+      "title": "Brooklyn Nets at Milwaukee Bucks",
+      "location": "6:30 PM - Fiserv Forum, Milwaukee, WI, US",
+      "price": "$249"
+    },
+    "22 OCT, FRI": {
+      "title": "Brooklyn Nets at Philadelphia 76ers",
+      "location": "7:30 PM - Wells Fargo Center Philadelphia, Philadelphia, PA, US",
+      "price": "$195"
+    },
+    "25 DEC, SAT": {
+      "title": "Brooklyn Nets at Los Angeles Lakers",
+      "location": "5:00 PM - STAPLES Center, Los Angeles, CA, US",
+      "price": "$360"
+    }
+  },
+  "Charlotte Hornets": {
+    "4 OCT, MON": {
+      "title": "Charlotte Hornets at Oklahoma City Thunder Preseason",
+      "location": "7:00 PM - Paycom Center, Oklahoma City, OK, US",
+      "price": "$28"
+    },
+    "7 OCT, THU": {
+      "title": "Memphis Grizzlies at Charlotte Hornets Preseason",
+      "location": "7:00 PM - Spectrum Center, Charlotte, NC, US",
+      "price": "$16"
+    },
+    "11 OCT, MON": {
+      "title": "Charlotte Hornets at Miami Heat Preseason",
+      "location": "7:30 PM - FTX Arena, Miami, FL, US",
+      "price": "$15"
+    },
+    "13 OCT, WED": {
+      "title": "Dallas Mavericks at Charlotte Hornets Preseason",
+      "location": "7:00 PM - Spectrum Center, Charlotte, NC, US",
+      "price": "$18"
+    }
+  },
+  "Chicago Bulls": {
+    "5 OCT, TUE": {
+      "title": "Cleveland Cavaliers at Chicago Bulls Preseason",
+      "location": "7:00 PM - United Center, Chicago, IL, US",
+      "price": "$75"
+    },
+    "8 OCT, FRI": {
+      "title": "New Orleans Pelicans at Chicago Bulls Preseason",
+      "location": "7:00 PM - United Center, Chicago, IL, US",
+      "price": "$85"
+    },
+    "15 OCT, FRI": {
+      "title": "Memphis Grizzlies at Chicago Bulls Preseason",
+      "location": "7:00 PM - United Center, Chicago, IL, US",
+      "price": "$59"
+    }
+  },
+  "Cleveland Cavaliers": {
+    "5 OCT, TUE": {
+      "title": "Cleveland Cavaliers at Chicago Bulls Preseason",
+      "location": "7:00 PM - United Center, Chicago, IL, US",
+      "price": "$75"
+    }
+  },
+  "Dallas Mavericks": {
+    "13 OCT, WED": {
+      "title": "Dallas Mavericks at Charlotte Hornets Preseason",
+      "location": "7:00 PM - Spectrum Center, Charlotte, NC, US",
+      "price": "$18"
+    },
+    "15 OCT, FRI": {
+      "title": "Dallas Mavericks at Milwaukee Bucks Preseason",
+      "location": "7:00 PM - Fiserv Forum, Milwaukee, WI, US",
+      "price": "$21"
+    },
+    "21 OCT, THU": {
+      "title": "Dallas Mavericks at Atlanta Hawks",
+      "location": "7:30 PM - State Farm Arena, Atlanta, GA, US",
+      "price": "$176"
+    },
+    "25 DEC, SAT": {
+      "title": "Dallas Mavericks at Utah Jazz",
+      "location": "8:30 PM - Vivint Smart Home Arena, Salt Lake City, UT, US",
+      "price": "$91"
+    }
+  },
+  "Denver Nuggets": {
+    "6 OCT, WED": {
+      "title": "Denver Nuggets at Golden State Warriors Preseason",
+      "location": "8:00 PM - Chase Center, San Francisco, CA, US",
+      "price": "$99"
+    },
+    "8 OCT, FRI": {
+      "title": "Minnesota Timberwolves at Denver Nuggets Preseason",
+      "location": "7:00 PM - Ball Arena, Denver, CO, US",
+      "price": null
+    },
+    "13 OCT, WED": {
+      "title": "Denver Nuggets at Oklahoma City Thunder Preseason",
+      "location": "7:00 PM - Paycom Center, Oklahoma City, OK, US",
+      "price": "$26"
+    },
+    "14 OCT, THU": {
+      "title": "Denver Nuggets at Oklahoma City Thunder Preseason",
+      "location": "7:00 PM - BOK Center, Tulsa, OK, US",
+      "price": "$26"
+    },
+    "20 OCT, WED": {
+      "title": "Denver Nuggets at Phoenix Suns",
+      "location": "7:00 PM - Footprint Center, Phoenix, AZ, US",
+      "price": "$210"
+    }
+  },
+  "Detroit Pistons": {},
+  "Golden State Warriors": {
+    "4 OCT, MON": {
+      "title": "Golden State Warriors at Portland Trail Blazers Preseason",
+      "location": "7:00 PM - Moda Center at the Rose Quarter, Portland, OR, US",
+      "price": "$85"
+    },
+    "6 OCT, WED": {
+      "title": "Denver Nuggets at Golden State Warriors Preseason",
+      "location": "8:00 PM - Chase Center, San Francisco, CA, US",
+      "price": "$99"
+    },
+    "8 OCT, FRI": {
+      "title": "Los Angeles Lakers at Golden State Warriors Preseason",
+      "location": "7:30 PM - Chase Center, San Francisco, CA, US",
+      "price": "$150"
+    },
+    "12 OCT, TUE": {
+      "title": "Golden State Warriors at Los Angeles Lakers Preseason",
+      "location": "7:30 PM - STAPLES Center, Los Angeles, CA, US",
+      "price": "$50"
+    },
+    "15 OCT, FRI": {
+      "title": "Portland Trail Blazers at Golden State Warriors Preseason",
+      "location": "7:30 PM - Chase Center, San Francisco, CA, US",
+      "price": "$99"
+    },
+    "19 OCT, TUE": {
+      "title": "Golden State Warriors at Los Angeles Lakers",
+      "location": "7:00 PM - STAPLES Center, Los Angeles, CA, US",
+      "price": "$325"
+    },
+    "21 OCT, THU": {
+      "title": "Los Angeles Clippers at Golden State Warriors Preseason",
+      "location": "7:00 PM - Chase Center, San Francisco, CA, US",
+      "price": "$298"
+    },
+    "25 DEC, SAT": {
+      "title": "Golden State Warriors at Phoenix Suns",
+      "location": "TBD - Footprint Center, Phoenix, AZ, US",
+      "price": "$265"
+    }
+  },
+  "Houston Rockets": {
+    "15 OCT, FRI": {
+      "title": "Houston Rockets at San Antonio Spurs Preseason",
+      "location": "7:30 PM - AT&T Center, San Antonio, TX, US",
+      "price": "$15"
+    }
+  },
+  "Indiana Pacers": {},
+  "Los Angeles Clippers": {
+    "21 OCT, THU": {
+      "title": "Los Angeles Clippers at Golden State Warriors Preseason",
+      "location": "7:00 PM - Chase Center, San Francisco, CA, US",
+      "price": "$298"
+    }
+  },
+  "Los Angeles Lakers": {
+    "3 OCT, SUN": {
+      "title": "Brooklyn Nets at Los Angeles Lakers Preseason",
+      "location": "12:30 PM - STAPLES Center, Los Angeles, CA, US",
+      "price": "$90"
+    },
+    "8 OCT, FRI": {
+      "title": "Los Angeles Lakers at Golden State Warriors Preseason",
+      "location": "7:30 PM - Chase Center, San Francisco, CA, US",
+      "price": "$150"
+    },
+    "10 OCT, SUN": {
+      "title": "Phoenix Suns at Los Angeles Lakers Preseason",
+      "location": "6:30 PM - STAPLES Center, Los Angeles, CA, US",
+      "price": "$50"
+    },
+    "12 OCT, TUE": {
+      "title": "Golden State Warriors at Los Angeles Lakers Preseason",
+      "location": "7:30 PM - STAPLES Center, Los Angeles, CA, US",
+      "price": "$50"
+    },
+    "19 OCT, TUE": {
+      "title": "Golden State Warriors at Los Angeles Lakers",
+      "location": "7:00 PM - STAPLES Center, Los Angeles, CA, US",
+      "price": "$325"
+    },
+    "22 OCT, FRI": {
+      "title": "Phoenix Suns at Los Angeles Lakers",
+      "location": "7:00 PM - STAPLES Center, Los Angeles, CA, US",
+      "price": "$125"
+    },
+    "25 DEC, SAT": {
+      "title": "Brooklyn Nets at Los Angeles Lakers",
+      "location": "5:00 PM - STAPLES Center, Los Angeles, CA, US",
+      "price": "$360"
+    }
+  },
+  "Memphis Grizzlies": {
+    "7 OCT, THU": {
+      "title": "Memphis Grizzlies at Charlotte Hornets Preseason",
+      "location": "7:00 PM - Spectrum Center, Charlotte, NC, US",
+      "price": "$16"
+    },
+    "15 OCT, FRI": {
+      "title": "Memphis Grizzlies at Chicago Bulls Preseason",
+      "location": "7:00 PM - United Center, Chicago, IL, US",
+      "price": "$59"
+    }
+  },
+  "Miami Heat": {
+    "4 OCT, MON": {
+      "title": "Atlanta Hawks at Miami Heat Preseason",
+      "location": "7:30 PM - FTX Arena, Miami, FL, US",
+      "price": "$19"
+    },
+    "8 OCT, FRI": {
+      "title": "Miami Heat at San Antonio Spurs Preseason",
+      "location": "7:30 PM - AT&T Center, San Antonio, TX, US",
+      "price": "$13"
+    },
+    "11 OCT, MON": {
+      "title": "Charlotte Hornets at Miami Heat Preseason",
+      "location": "7:30 PM - FTX Arena, Miami, FL, US",
+      "price": "$15"
+    },
+    "15 OCT, FRI": {
+      "title": "Boston Celtics at Miami Heat Preseason",
+      "location": "8:00 PM - FTX Arena, Miami, FL, US",
+      "price": "$23"
+    }
+  },
+  "Milwaukee Bucks": {
+    "8 OCT, FRI": {
+      "title": "Milwaukee Bucks at Brooklyn Nets Preseason",
+      "location": "7:30 PM - Barclays Center, Brooklyn, NY, US",
+      "price": "$74"
+    },
+    "10 OCT, SUN": {
+      "title": "Oklahoma City Thunder at Milwaukee Bucks Preseason",
+      "location": "7:00 PM - Fiserv Forum, Milwaukee, WI, US",
+      "price": "$21"
+    },
+    "13 OCT, WED": {
+      "title": "Milwaukee Bucks at Utah Jazz",
+      "location": "7:00 PM - Vivint Smart Home Arena, Salt Lake City, UT, US",
+      "price": "$35"
+    },
+    "15 OCT, FRI": {
+      "title": "Dallas Mavericks at Milwaukee Bucks Preseason",
+      "location": "7:00 PM - Fiserv Forum, Milwaukee, WI, US",
+      "price": "$21"
+    },
+    "19 OCT, TUE": {
+      "title": "Brooklyn Nets at Milwaukee Bucks",
+      "location": "6:30 PM - Fiserv Forum, Milwaukee, WI, US",
+      "price": "$249"
+    },
+    "25 DEC, SAT": {
+      "title": "Boston Celtics at Milwaukee Bucks",
+      "location": "1:30 PM - Fiserv Forum, Milwaukee, WI, US",
+      "price": "$169"
+    }
+  },
+  "Minnesota Timberwolves": {
+    "4 OCT, MON": {
+      "title": "New Orleans Pelicans at Minnesota Timberwolves Preseason",
+      "location": "7:00 PM - Target Center, Minneapolis, MN, US",
+      "price": null
+    },
+    "8 OCT, FRI": {
+      "title": "Minnesota Timberwolves at Denver Nuggets Preseason",
+      "location": "7:00 PM - Ball Arena, Denver, CO, US",
+      "price": null
+    },
+    "14 OCT, THU": {
+      "title": "Minnesota Timberwolves at Brooklyn Nets Preseason",
+      "location": "7:30 PM - Barclays Center, Brooklyn, NY, US",
+      "price": "$59"
+    }
+  },
+  "New Orleans Pelicans": {},
+  "New York Knicks": {
+    "20 OCT, WED": {
+      "title": "Boston Celtics at New York Knicks",
+      "location": "7:30 PM - Madison Square Garden, New York, NY, US",
+      "price": "$190"
+    },
+    "25 DEC, SAT": {
+      "title": "Atlanta Hawks at New York Knicks",
+      "location": "12:00 PM - Madison Square Garden, New York, NY, US",
+      "price": "$252"
+    }
+  },
+  "Oklahoma City Thunder": {
+    "4 OCT, MON": {
+      "title": "Charlotte Hornets at Oklahoma City Thunder Preseason",
+      "location": "7:00 PM - Paycom Center, Oklahoma City, OK, US",
+      "price": "$28"
+    },
+    "10 OCT, SUN": {
+      "title": "Oklahoma City Thunder at Milwaukee Bucks Preseason",
+      "location": "7:00 PM - Fiserv Forum, Milwaukee, WI, US",
+      "price": "$21"
+    },
+    "13 OCT, WED": {
+      "title": "Denver Nuggets at Oklahoma City Thunder Preseason",
+      "location": "7:00 PM - Paycom Center, Oklahoma City, OK, US",
+      "price": "$26"
+    },
+    "14 OCT, THU": {
+      "title": "Denver Nuggets at Oklahoma City Thunder Preseason",
+      "location": "7:00 PM - BOK Center, Tulsa, OK, US",
+      "price": "$26"
+    }
+  },
+  "Orlando Magic": {
+    "10 OCT, SUN": {
+      "title": "San Antonio Spurs at Orlando Magic Preseason",
+      "location": "6:00 PM - Amway Center, Orlando, FL, US",
+      "price": "$38"
+    },
+    "13 OCT, WED": {
+      "title": "Boston Celtics at Orlando Magic Preseason",
+      "location": "7:00 PM - Amway Center, Orlando, FL, US",
+      "price": "$35"
+    }
+  },
+  "Philadelphia 76ers": {},
+  "Phoenix Suns": {
+    "10 OCT, SUN": {
+      "title": "Phoenix Suns at Los Angeles Lakers Preseason",
+      "location": "6:30 PM - STAPLES Center, Los Angeles, CA, US",
+      "price": "$50"
+    },
+    "20 OCT, WED": {
+      "title": "Denver Nuggets at Phoenix Suns",
+      "location": "7:00 PM - Footprint Center, Phoenix, AZ, US",
+      "price": "$210"
+    },
+    "22 OCT, FRI": {
+      "title": "Phoenix Suns at Los Angeles Lakers",
+      "location": "7:00 PM - STAPLES Center, Los Angeles, CA, US",
+      "price": "$125"
+    },
+    "25 DEC, SAT": {
+      "title": "Golden State Warriors at Phoenix Suns",
+      "location": "TBD - Footprint Center, Phoenix, AZ, US",
+      "price": "$265"
+    }
+  },
+  "Portland Trail Blazers": {
+    "4 OCT, MON": {
+      "title": "Golden State Warriors at Portland Trail Blazers Preseason",
+      "location": "7:00 PM - Moda Center at the Rose Quarter, Portland, OR, US",
+      "price": "$85"
+    },
+    "11 OCT, MON": {
+      "title": "Sacramento Kings at Portland Trail Blazers Preseason",
+      "location": "7:00 PM - Moda Center at the Rose Quarter, Portland, OR, US",
+      "price": "$39"
+    },
+    "15 OCT, FRI": {
+      "title": "Portland Trail Blazers at Golden State Warriors Preseason",
+      "location": "7:30 PM - Chase Center, San Francisco, CA, US",
+      "price": "$79"
+    }
+  },
+  "Sacramento Kings": {
+    "11 OCT, MON": {
+      "title": "Sacramento Kings at Portland Trail Blazers Preseason",
+      "location": "7:00 PM - Moda Center at the Rose Quarter, Portland, OR, US",
+      "price": "$39"
+    }
+  },
+  "San Antonio Spurs": {
+    "4 OCT, MON": {
+      "title": "Utah Jazz at San Antonio Spurs Preseason",
+      "location": "7:30 PM - AT&T Center, San Antonio, TX, US",
+      "price": "$12"
+    },
+    "8 OCT, FRI": {
+      "title": "Miami Heat at San Antonio Spurs Preseason",
+      "location": "7:30 PM - AT&T Center, San Antonio, TX, US",
+      "price": "$13"
+    },
+    "10 OCT, SUN": {
+      "title": "San Antonio Spurs at Orlando Magic Preseason",
+      "location": "6:00 PM - Amway Center, Orlando, FL, US",
+      "price": "$38"
+    },
+    "15 OCT, FRI": {
+      "title": "Houston Rockets at San Antonio Spurs Preseason",
+      "location": "7:30 PM - AT&T Center, San Antonio, TX, US",
+      "price": "$15"
+    }
+  },
+  "Toronto Raptors": {},
+  "Utah Jazz": {
+    "4 OCT, MON": {
+      "title": "Utah Jazz at San Antonio Spurs Preseason",
+      "location": "7:30 PM - AT&T Center, San Antonio, TX, US",
+      "price": "$12"
+    },
+    "11 OCT, MON": {
+      "title": "New Orleans Pelicans at Utah Jazz",
+      "location": "7:00 PM - Vivint Smart Home Arena, Salt Lake City, UT, US",
+      "price": "$30"
+    },
+    "13 OCT, WED": {
+      "title": "Milwaukee Bucks at Utah Jazz",
+      "location": "7:00 PM - Vivint Smart Home Arena, Salt Lake City, UT, US",
+      "price": "$35"
+    },
+    "25 DEC, SAT": {
+      "title": "Dallas Mavericks at Utah Jazz",
+      "location": "8:30 PM - Vivint Smart Home Arena, Salt Lake City, UT, US",
+      "price": "$91"
+    }
+  },
+  "Washington Wizards": {}
+}
