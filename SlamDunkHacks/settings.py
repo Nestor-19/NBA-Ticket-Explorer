@@ -26,7 +26,9 @@ SECRET_KEY = 'hw0$p7e@rvk6j%s$)wl_n-d5=hu0v4s+s4(w=t2%=c=zl=ywm)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'nbaticketexplorer.herokuapp.com'
+]
 
 
 # Application definition
@@ -120,6 +122,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
 STATIC_URL = '/static/'
+STATIC_ROOT = BASE_DIR / 'staticfiles'
 STATICFILES_DIRS = [
     STATIC_DIR,
 ]
