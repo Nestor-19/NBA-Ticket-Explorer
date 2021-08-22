@@ -58,3 +58,28 @@ json_object = json.dumps(data)
 # Writing to sample.json
 with open("gametime.json", "w") as outfile:
     outfile.write(json_object)
+
+
+header{
+    width: 60%;
+    height: 75px;
+    display: block;
+    background-color: black;
+    border-style: solid;
+    /* border-color:#31346A; */
+    border-color: #802323;
+    font-size: 40px;
+    color: #F1ECCE;
+    text-align: center;
+}
+
+h1{
+    height: 0px;
+}
+
+#logo{
+    float: left;
+    height: 70px;
+    width: 70px;
+    
+}

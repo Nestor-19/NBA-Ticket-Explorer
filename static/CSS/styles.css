@@ -1,19 +1,60 @@
-body{
+
+html, body{
+    height: 100%;
     margin: 0;
-    padding: 0;
+}
+
+body{
+    background-image: url('/static/Images/nba.jpeg');
+    background-position: center;
+    background-size: cover;
+}
+
+nav, u, li{
     list-style: none;
+    display: inline-block;
+    margin-left: 60px;
+
+}
+
+nav, a, ul, li{
+    color: #F1ECCE;
     text-decoration: none;
 }
 
-.header{
-    width: 100%;
-    height: 80px;
-    display: block;
-    background-color: #141515;
-    border-style: solid;
-    text-align: center;
-    font-size: 30px;
+#about{
+    padding-right: 50px;
 }
 
 
+.logo{
+    float: left;
+    width: 80px;
+    height:80px;
+}
 
+h1{
+    color: #F1ECCE;
+    font-size: 65px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.row{
+    display: flex;
+    height: 88%;
+    align-items: center;
+}
+
+.col{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    color: #F1ECCE !important;
+    background-color: #31346a !important;
+    padding: 10px 40px !important;
+
+}

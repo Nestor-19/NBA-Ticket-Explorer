@@ -8,13 +8,30 @@
     <!-- CSS only -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
     <link rel="stylesheet" href= "{% static 'CSS/styles.css' %}">
-    <title>Baketball Tickets!</title>
+    <title>Basketball Tickets!</title>
+
+<!-- logo url = <img id = "logo"  src="{% static 'Images/logo.jpeg' %}" alt=""> -->
 </head>
 <body>
-    <header>
-        <a href = "index.html"> Basketball Tickets</a>
-    </header>
+    <div class = "navbar">
+        <img class = "logo"  src="{% static 'Images/logo.jpeg' %}" alt="">
+        <nav>
+            <ul>
+                <li><a href="#">HOME</a></li>
+                <li><a id = "about" href="#">ABOUT</a></li>
+            </ul>
+        </nav>
+    </div>
+    
+    <div class = "row">
+        <div class = "col">
+            <h1>NBA TICKET EXPLORER</h1>
+        </div>
+        <div class = "col">
+            <button type="button" class="btn">Explore</button>
+        </div>
+    </div>
 
-        
 </body>
+
 </html>
