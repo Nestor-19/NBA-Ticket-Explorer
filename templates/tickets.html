@@ -25,7 +25,7 @@
     <div class = "container">
         {% for date in dates %}
         <div class = "row">
-                <h3>{{date}}</h3>
+                <h3 class = "date">{{date}}</h3>
                 {% if StubHub|ind:date %}
                 <div class = "col-md-4">
                         <a href="https://www.stubhub.com/nba-tickets/grouping/115/" target="_blank" class="data-card">

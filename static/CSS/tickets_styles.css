@@ -166,6 +166,11 @@ li {
 .data-card:hover .link-text svg path {
   fill: #fff;
 }
+
+.date{
+    color: #f1ecce;
+}
+
 @keyframes point {
   0% {
     transform: translateX(0);
