@@ -1,7 +1,8 @@
 import json
+import calendar
 
 # Opening JSON file
-f = open('stubHub.json')
+f = open('gametime.json')
 
 # returns JSON object as
 # a dictionary
@@ -11,7 +12,8 @@ for team in data:
     newDict = {}
     for event in data[team]:
         dateObj = event["Date"]
-        dateStrKey = f'{dateObj["date"]} {dateObj["Month"]}, {dateObj["Day"]}'
+        mm = calendar.month_abbr[int(dateObj["Month"])].upper()
+        dateStrKey = f'{dateObj["date"]} {mm}, {dateObj["Day"]}'
 
         tempEvent = event
         del tempEvent["Date"]
@@ -21,5 +23,5 @@ for team in data:
 json_object = json.dumps(data)
 
 # Writing to sample.json
-with open("stubHubNew.json", "w") as outfile:
+with open("gametimeNew.json", "w") as outfile:
     outfile.write(json_object)

@@ -1,2309 +1,2309 @@
 {
   "Boston Celtics": {
-    "13 10, WED": {
+    "13 OCT, WED": {
       "title": "Boston Celtics at Orlando Magic",
       "location": "Amway Center",
       "price": "$13+"
     },
-    "15 10, FRI": {
+    "15 OCT, FRI": {
       "title": "Boston Celtics at Miami Heat",
       "location": "FTX Arena",
       "price": "$18+"
     },
-    "20 10, WED": {
+    "20 OCT, WED": {
       "title": "Boston Celtics at New York Knicks",
       "location": "Madison Square Garden",
       "price": "$150+"
     },
-    "22 10, FRI": {
+    "22 OCT, FRI": {
       "title": "Toronto Raptors at Boston Celtics",
       "location": "TD Garden",
       "price": "$71+"
     },
-    "24 10, SUN": {
+    "24 OCT, SUN": {
       "title": "Boston Celtics at Houston Rockets",
       "location": "Toyota Center",
       "price": "$41+"
     },
-    "25 10, MON": {
+    "25 OCT, MON": {
       "title": "Boston Celtics at Charlotte Hornets",
       "location": "Spectrum Center",
       "price": "$23+"
     },
-    "27 10, WED": {
+    "27 OCT, WED": {
       "title": "Washington Wizards at Boston Celtics",
       "location": "TD Garden",
       "price": "$35+"
     },
-    "30 10, SAT": {
+    "30 OCT, SAT": {
       "title": "Boston Celtics at Washington Wizards",
       "location": "Capital One Arena",
       "price": "$43+"
     },
-    "1 11, MON": {
+    "1 NOV, MON": {
       "title": "Chicago Bulls at Boston Celtics",
       "location": "TD Garden",
       "price": "$45+"
     },
-    "3 11, WED": {
+    "3 NOV, WED": {
       "title": "Boston Celtics at Orlando Magic",
       "location": "Amway Center",
       "price": "$32+"
     },
-    "4 11, THU": {
+    "4 NOV, THU": {
       "title": "Boston Celtics at Miami Heat",
       "location": "FTX Arena",
       "price": "$33+"
     },
-    "6 11, SAT": {
+    "6 NOV, SAT": {
       "title": "Boston Celtics at Dallas Mavericks",
       "location": "American Airlines Center",
       "price": "$80+"
     },
-    "10 11, WED": {
+    "10 NOV, WED": {
       "title": "Toronto Raptors at Boston Celtics",
       "location": "TD Garden",
       "price": "$42+"
     },
-    "12 11, FRI": {
+    "12 NOV, FRI": {
       "title": "Milwaukee Bucks at Boston Celtics",
       "location": "TD Garden",
       "price": "$83+"
     },
-    "17 11, WED": {
+    "17 NOV, WED": {
       "title": "Boston Celtics at Atlanta Hawks",
       "location": "State Farm Arena",
       "price": "$173+"
     }
   },
   "Brooklyn Nets": {
-    "3 10, SUN": {
+    "3 OCT, SUN": {
       "title": "Brooklyn Nets at Los Angeles Lakers",
       "location": "Staples Center",
       "price": "$59+"
     },
-    "8 10, FRI": {
+    "8 OCT, FRI": {
       "title": "Milwaukee Bucks at Brooklyn Nets",
       "location": "Barclays Center",
       "price": "$30+"
     },
-    "14 10, THU": {
+    "14 OCT, THU": {
       "title": "Minnesota Timberwolves at Brooklyn Nets",
       "location": "Barclays Center",
       "price": "$19+"
     },
-    "19 10, TUE": {
+    "19 OCT, TUE": {
       "title": "Brooklyn Nets at Milwaukee Bucks",
       "location": "Fiserv Forum",
       "price": "$178+"
     },
-    "22 10, FRI": {
+    "22 OCT, FRI": {
       "title": "Brooklyn Nets at Philadelphia 76ers",
       "location": "Wells Fargo Center",
       "price": "$135+"
     },
-    "24 10, SUN": {
+    "24 OCT, SUN": {
       "title": "Charlotte Hornets at Brooklyn Nets",
       "location": "Barclays Center",
       "price": "$55+"
     },
-    "25 10, MON": {
+    "25 OCT, MON": {
       "title": "Washington Wizards at Brooklyn Nets",
       "location": "Barclays Center",
       "price": "$32+"
     },
-    "27 10, WED": {
+    "27 OCT, WED": {
       "title": "Miami Heat at Brooklyn Nets",
       "location": "Barclays Center",
       "price": "$37+"
     },
-    "29 10, FRI": {
+    "29 OCT, FRI": {
       "title": "Indiana Pacers at Brooklyn Nets",
       "location": "Barclays Center",
       "price": "$41+"
     },
-    "31 10, SUN": {
+    "31 OCT, SUN": {
       "title": "Detroit Pistons at Brooklyn Nets",
       "location": "Barclays Center",
       "price": "$33+"
     },
-    "3 11, WED": {
+    "3 NOV, WED": {
       "title": "Atlanta Hawks at Brooklyn Nets",
       "location": "Barclays Center",
       "price": "$42+"
     },
-    "5 11, FRI": {
+    "5 NOV, FRI": {
       "title": "Brooklyn Nets at Detroit Pistons",
       "location": "Little Caesars Arena",
       "price": "$86+"
     },
-    "8 11, MON": {
+    "8 NOV, MON": {
       "title": "Brooklyn Nets at Chicago Bulls",
       "location": "United Center",
       "price": "$79+"
     },
-    "10 11, WED": {
+    "10 NOV, WED": {
       "title": "Brooklyn Nets at Orlando Magic",
       "location": "Amway Center",
       "price": "$63+"
     },
-    "12 11, FRI": {
+    "12 NOV, FRI": {
       "title": "Brooklyn Nets at New Orleans Pelicans",
       "location": "Smoothie King Center",
       "price": "$45+"
     }
   },
   "New York Knicks": {
-    "20 10, WED": {
+    "20 OCT, WED": {
       "title": "Boston Celtics at New York Knicks",
       "location": "Madison Square Garden",
       "price": "$150+"
     },
-    "22 10, FRI": {
+    "22 OCT, FRI": {
       "title": "New York Knicks at Orlando Magic",
       "location": "Amway Center",
       "price": "$33+"
     },
-    "24 10, SUN": {
+    "24 OCT, SUN": {
       "title": "Orlando Magic at New York Knicks",
       "location": "Madison Square Garden",
       "price": "$91+"
     },
-    "26 10, TUE": {
+    "26 OCT, TUE": {
       "title": "Philadelphia 76ers at New York Knicks",
       "location": "Madison Square Garden",
       "price": "$100+"
     },
-    "28 10, THU": {
+    "28 OCT, THU": {
       "title": "New York Knicks at Chicago Bulls",
       "location": "United Center",
       "price": "$43+"
     },
-    "30 10, SAT": {
+    "30 OCT, SAT": {
       "title": "New York Knicks at New Orleans Pelicans",
       "location": "Smoothie King Center",
       "price": "$20+"
     },
-    "1 11, MON": {
+    "1 NOV, MON": {
       "title": "Toronto Raptors at New York Knicks",
       "location": "Madison Square Garden",
       "price": "$77+"
     },
-    "3 11, WED": {
+    "3 NOV, WED": {
       "title": "New York Knicks at Indiana Pacers",
       "location": "Bankers Life Fieldhouse",
       "price": "$20+"
     },
-    "5 11, FRI": {
+    "5 NOV, FRI": {
       "title": "New York Knicks at Milwaukee Bucks",
       "location": "Fiserv Forum",
       "price": "$62+"
     },
-    "7 11, SUN": {
+    "7 NOV, SUN": {
       "title": "Cleveland Cavaliers at New York Knicks",
       "location": "Madison Square Garden",
       "price": "$77+"
     },
-    "8 11, MON": {
+    "8 NOV, MON": {
       "title": "New York Knicks at Philadelphia 76ers",
       "location": "Wells Fargo Center",
       "price": "$28+"
     },
-    "10 11, WED": {
+    "10 NOV, WED": {
       "title": "Milwaukee Bucks at New York Knicks",
       "location": "Madison Square Garden",
       "price": "$140+"
     },
-    "12 11, FRI": {
+    "12 NOV, FRI": {
       "title": "New York Knicks at Charlotte Hornets",
       "location": "Spectrum Center",
       "price": "$33+"
     },
-    "15 11, MON": {
+    "15 NOV, MON": {
       "title": "Indiana Pacers at New York Knicks",
       "location": "Madison Square Garden",
       "price": "$74+"
     },
-    "17 11, WED": {
+    "17 NOV, WED": {
       "title": "Orlando Magic at New York Knicks",
       "location": "Madison Square Garden",
       "price": "$80+"
     }
   },
   "Philadelphia 76ers": {
-    "20 10, WED": {
+    "20 OCT, WED": {
       "title": "Philadelphia 76ers at New Orleans Pelicans",
       "location": "Smoothie King Center",
       "price": "$18+"
     },
-    "22 10, FRI": {
+    "22 OCT, FRI": {
       "title": "Brooklyn Nets at Philadelphia 76ers",
       "location": "Wells Fargo Center",
       "price": "$135+"
     },
-    "24 10, SUN": {
+    "24 OCT, SUN": {
       "title": "Philadelphia 76ers at Oklahoma City Thunder",
       "location": "Paycom Center",
       "price": "$24+"
     },
-    "26 10, TUE": {
+    "26 OCT, TUE": {
       "title": "Philadelphia 76ers at New York Knicks",
       "location": "Madison Square Garden",
       "price": "$100+"
     },
-    "28 10, THU": {
+    "28 OCT, THU": {
       "title": "Detroit Pistons at Philadelphia 76ers",
       "location": "Wells Fargo Center",
       "price": "$24+"
     },
-    "30 10, SAT": {
+    "30 OCT, SAT": {
       "title": "Atlanta Hawks at Philadelphia 76ers",
       "location": "Wells Fargo Center",
       "price": "$58+"
     },
-    "1 11, MON": {
+    "1 NOV, MON": {
       "title": "Portland Trail Blazers at Philadelphia 76ers",
       "location": "Wells Fargo Center",
       "price": "$28+"
     },
-    "3 11, WED": {
+    "3 NOV, WED": {
       "title": "Chicago Bulls at Philadelphia 76ers",
       "location": "Wells Fargo Center",
       "price": "$28+"
     },
-    "4 11, THU": {
+    "4 NOV, THU": {
       "title": "Philadelphia 76ers at Detroit Pistons",
       "location": "Little Caesars Arena",
       "price": "$32+"
     },
-    "6 11, SAT": {
+    "6 NOV, SAT": {
       "title": "Philadelphia 76ers at Chicago Bulls",
       "location": "United Center",
       "price": "$39+"
     },
-    "8 11, MON": {
+    "8 NOV, MON": {
       "title": "New York Knicks at Philadelphia 76ers",
       "location": "Wells Fargo Center",
       "price": "$28+"
     },
-    "9 11, TUE": {
+    "9 NOV, TUE": {
       "title": "Milwaukee Bucks at Philadelphia 76ers",
       "location": "Wells Fargo Center",
       "price": "$64+"
     },
-    "11 11, THU": {
+    "11 NOV, THU": {
       "title": "Toronto Raptors at Philadelphia 76ers",
       "location": "Wells Fargo Center",
       "price": "$28+"
     },
-    "13 11, SAT": {
+    "13 NOV, SAT": {
       "title": "Philadelphia 76ers at Indiana Pacers",
       "location": "Bankers Life Fieldhouse",
       "price": "$29+"
     },
-    "16 11, TUE": {
+    "16 NOV, TUE": {
       "title": "Philadelphia 76ers at Utah Jazz",
       "location": "Vivint Smart Home Arena",
       "price": "$27+"
     }
   },
   "Toronto Raptors": {
-    "22 10, FRI": {
+    "22 OCT, FRI": {
       "title": "Toronto Raptors at Boston Celtics",
       "location": "TD Garden",
       "price": "$71+"
     },
-    "30 10, SAT": {
+    "30 OCT, SAT": {
       "title": "Toronto Raptors at Indiana Pacers",
       "location": "Bankers Life Fieldhouse",
       "price": "$15+"
     },
-    "1 11, MON": {
+    "1 NOV, MON": {
       "title": "Toronto Raptors at New York Knicks",
       "location": "Madison Square Garden",
       "price": "$77+"
     },
-    "3 11, WED": {
+    "3 NOV, WED": {
       "title": "Toronto Raptors at Washington Wizards",
       "location": "Capital One Arena",
       "price": "$14+"
     },
-    "10 11, WED": {
+    "10 NOV, WED": {
       "title": "Toronto Raptors at Boston Celtics",
       "location": "TD Garden",
       "price": "$42+"
     },
-    "11 11, THU": {
+    "11 NOV, THU": {
       "title": "Toronto Raptors at Philadelphia 76ers",
       "location": "Wells Fargo Center",
       "price": "$28+"
     },
-    "15 11, MON": {
+    "15 NOV, MON": {
       "title": "Toronto Raptors at Portland Trail Blazers",
       "location": "Moda Center",
       "price": "$21+"
     },
-    "18 11, THU": {
+    "18 NOV, THU": {
       "title": "Toronto Raptors at Utah Jazz",
       "location": "Vivint Smart Home Arena",
       "price": "$24+"
     },
-    "19 11, FRI": {
+    "19 NOV, FRI": {
       "title": "Toronto Raptors at Sacramento Kings",
       "location": "Golden 1 Center",
       "price": "$50+"
     },
-    "21 11, SUN": {
+    "21 NOV, SUN": {
       "title": "Toronto Raptors at Golden State Warriors",
       "location": "Chase Center",
       "price": "$125+"
     },
-    "24 11, WED": {
+    "24 NOV, WED": {
       "title": "Toronto Raptors at Memphis Grizzlies",
       "location": "FedExForum",
       "price": "$9+"
     },
-    "26 11, FRI": {
+    "26 NOV, FRI": {
       "title": "Toronto Raptors at Indiana Pacers",
       "location": "Bankers Life Fieldhouse",
       "price": "$20+"
     },
-    "14 12, TUE": {
+    "14 DEC, TUE": {
       "title": "Toronto Raptors at Brooklyn Nets",
       "location": "Barclays Center",
       "price": "$33+"
     },
-    "22 12, WED": {
+    "22 DEC, WED": {
       "title": "Toronto Raptors at Chicago Bulls",
       "location": "United Center",
       "price": "$25+"
     },
-    "5 1, WED": {
+    "5 JAN, WED": {
       "title": "Toronto Raptors at Milwaukee Bucks",
       "location": "Fiserv Forum",
       "price": "$56+"
     }
   },
   "Chicago Bulls": {
-    "5 10, TUE": {
+    "5 OCT, TUE": {
       "title": "Cleveland Cavaliers at Chicago Bulls",
       "location": "United Center",
       "price": "$10+"
     },
-    "8 10, FRI": {
+    "8 OCT, FRI": {
       "title": "New Orleans Pelicans at Chicago Bulls",
       "location": "United Center",
       "price": "$18+"
     },
-    "15 10, FRI": {
+    "15 OCT, FRI": {
       "title": "Memphis Grizzlies at Chicago Bulls",
       "location": "United Center",
       "price": "$12+"
     },
-    "20 10, WED": {
+    "20 OCT, WED": {
       "title": "Chicago Bulls at Detroit Pistons",
       "location": "Little Caesars Arena",
       "price": "$43+"
     },
-    "22 10, FRI": {
+    "22 OCT, FRI": {
       "title": "New Orleans Pelicans at Chicago Bulls",
       "location": "United Center",
       "price": "$52+"
     },
-    "23 10, SAT": {
+    "23 OCT, SAT": {
       "title": "Detroit Pistons at Chicago Bulls",
       "location": "United Center",
       "price": "$45+"
     },
-    "28 10, THU": {
+    "28 OCT, THU": {
       "title": "New York Knicks at Chicago Bulls",
       "location": "United Center",
       "price": "$43+"
     },
-    "30 10, SAT": {
+    "30 OCT, SAT": {
       "title": "Utah Jazz at Chicago Bulls",
       "location": "United Center",
       "price": "$41+"
     },
-    "1 11, MON": {
+    "1 NOV, MON": {
       "title": "Chicago Bulls at Boston Celtics",
       "location": "TD Garden",
       "price": "$45+"
     },
-    "3 11, WED": {
+    "3 NOV, WED": {
       "title": "Chicago Bulls at Philadelphia 76ers",
       "location": "Wells Fargo Center",
       "price": "$28+"
     },
-    "6 11, SAT": {
+    "6 NOV, SAT": {
       "title": "Philadelphia 76ers at Chicago Bulls",
       "location": "United Center",
       "price": "$39+"
     },
-    "8 11, MON": {
+    "8 NOV, MON": {
       "title": "Brooklyn Nets at Chicago Bulls",
       "location": "United Center",
       "price": "$79+"
     },
-    "10 11, WED": {
+    "10 NOV, WED": {
       "title": "Dallas Mavericks at Chicago Bulls",
       "location": "United Center",
       "price": "$39+"
     },
-    "12 11, FRI": {
+    "12 NOV, FRI": {
       "title": "Chicago Bulls at Golden State Warriors",
       "location": "Chase Center",
       "price": "$127+"
     },
-    "14 11, SUN": {
+    "14 NOV, SUN": {
       "title": "12:30 PM\u2022Staples Center",
       "location": "None",
       "price": "Chicago Bulls at LA Clippers"
     }
   },
   "Cleveland Cavaliers": {
-    "5 10, TUE": {
+    "5 OCT, TUE": {
       "title": "Cleveland Cavaliers at Chicago Bulls",
       "location": "United Center",
       "price": "$10+"
     },
-    "20 10, WED": {
+    "20 OCT, WED": {
       "title": "Cleveland Cavaliers at Memphis Grizzlies",
       "location": "FedExForum",
       "price": "$9+"
     },
-    "22 10, FRI": {
+    "22 OCT, FRI": {
       "title": "Charlotte Hornets at Cleveland Cavaliers",
       "location": "Rocket Mortgage FieldHouse",
       "price": "$40+"
     },
-    "25 10, MON": {
+    "25 OCT, MON": {
       "title": "Cleveland Cavaliers at Denver Nuggets",
       "location": "Ball Arena",
       "price": "$20+"
     },
-    "27 10, WED": {
+    "27 OCT, WED": {
       "title": "Cleveland Cavaliers at LA Clippers",
       "location": "Staples Center",
       "price": "$16+"
     },
-    "29 10, FRI": {
+    "29 OCT, FRI": {
       "title": "Cleveland Cavaliers at Los Angeles Lakers",
       "location": "Staples Center",
       "price": "$77+"
     },
-    "30 10, SAT": {
+    "30 OCT, SAT": {
       "title": "Cleveland Cavaliers at Phoenix Suns",
       "location": "Footprint Center",
       "price": "$70+"
     },
-    "1 11, MON": {
+    "1 NOV, MON": {
       "title": "Cleveland Cavaliers at Charlotte Hornets",
       "location": "Spectrum Center",
       "price": "$11+"
     },
-    "7 11, SUN": {
+    "7 NOV, SUN": {
       "title": "Cleveland Cavaliers at New York Knicks",
       "location": "Madison Square Garden",
       "price": "$77+"
     },
-    "17 11, WED": {
+    "17 NOV, WED": {
       "title": "Cleveland Cavaliers at Brooklyn Nets",
       "location": "Barclays Center",
       "price": "$33+"
     },
-    "29 11, MON": {
+    "29 NOV, MON": {
       "title": "Cleveland Cavaliers at Dallas Mavericks",
       "location": "American Airlines Center",
       "price": "$29+"
     },
-    "1 12, WED": {
+    "1 DEC, WED": {
       "title": "Cleveland Cavaliers at Miami Heat",
       "location": "FTX Arena",
       "price": "$30+"
     },
-    "3 12, FRI": {
+    "3 DEC, FRI": {
       "title": "Cleveland Cavaliers at Washington Wizards",
       "location": "Capital One Arena",
       "price": "$19+"
     },
-    "6 12, MON": {
+    "6 DEC, MON": {
       "title": "Cleveland Cavaliers at Milwaukee Bucks",
       "location": "Fiserv Forum",
       "price": "$40+"
     },
-    "10 12, FRI": {
+    "10 DEC, FRI": {
       "title": "Cleveland Cavaliers at Minnesota Timberwolves",
       "location": "Target Center",
       "price": "$60+"
     }
   },
   "Detroit Pistons": {
-    "20 10, WED": {
+    "20 OCT, WED": {
       "title": "Chicago Bulls at Detroit Pistons",
       "location": "Little Caesars Arena",
       "price": "$43+"
     },
-    "23 10, SAT": {
+    "23 OCT, SAT": {
       "title": "Detroit Pistons at Chicago Bulls",
       "location": "United Center",
       "price": "$45+"
     },
-    "25 10, MON": {
+    "25 OCT, MON": {
       "title": "Detroit Pistons at Atlanta Hawks",
       "location": "State Farm Arena",
       "price": "$98+"
     },
-    "28 10, THU": {
+    "28 OCT, THU": {
       "title": "Detroit Pistons at Philadelphia 76ers",
       "location": "Wells Fargo Center",
       "price": "$24+"
     },
-    "30 10, SAT": {
+    "30 OCT, SAT": {
       "title": "Orlando Magic at Detroit Pistons",
       "location": "Little Caesars Arena",
       "price": "$28+"
     },
-    "31 10, SUN": {
+    "31 OCT, SUN": {
       "title": "Detroit Pistons at Brooklyn Nets",
       "location": "Barclays Center",
       "price": "$33+"
     },
-    "2 11, TUE": {
+    "2 NOV, TUE": {
       "title": "Milwaukee Bucks at Detroit Pistons",
       "location": "Little Caesars Arena",
       "price": "$37+"
     },
-    "4 11, THU": {
+    "4 NOV, THU": {
       "title": "Philadelphia 76ers at Detroit Pistons",
       "location": "Little Caesars Arena",
       "price": "$32+"
     },
-    "5 11, FRI": {
+    "5 NOV, FRI": {
       "title": "Brooklyn Nets at Detroit Pistons",
       "location": "Little Caesars Arena",
       "price": "$86+"
     },
-    "10 11, WED": {
+    "10 NOV, WED": {
       "title": "Detroit Pistons at Houston Rockets",
       "location": "Toyota Center",
       "price": "$23+"
     },
-    "15 11, MON": {
+    "15 NOV, MON": {
       "title": "Sacramento Kings at Detroit Pistons",
       "location": "Little Caesars Arena",
       "price": "$19+"
     },
-    "17 11, WED": {
+    "17 NOV, WED": {
       "title": "Indiana Pacers at Detroit Pistons",
       "location": "Little Caesars Arena",
       "price": "$19+"
     },
-    "19 11, FRI": {
+    "19 NOV, FRI": {
       "title": "Golden State Warriors at Detroit Pistons",
       "location": "Little Caesars Arena",
       "price": "$96+"
     },
-    "21 11, SUN": {
+    "21 NOV, SUN": {
       "title": "Los Angeles Lakers at Detroit Pistons",
       "location": "Little Caesars Arena",
       "price": "$110+"
     },
-    "23 11, TUE": {
+    "23 NOV, TUE": {
       "title": "Miami Heat at Detroit Pistons",
       "location": "Little Caesars Arena",
       "price": "$28+"
     }
   },
   "Indiana Pacers": {
-    "20 10, WED": {
+    "20 OCT, WED": {
       "title": "Indiana Pacers at Charlotte Hornets",
       "location": "Spectrum Center",
       "price": "$24+"
     },
-    "22 10, FRI": {
+    "22 OCT, FRI": {
       "title": "Indiana Pacers at Washington Wizards",
       "location": "Capital One Arena",
       "price": "$21+"
     },
-    "23 10, SAT": {
+    "23 OCT, SAT": {
       "title": "Miami Heat at Indiana Pacers",
       "location": "Bankers Life Fieldhouse",
       "price": "$20+"
     },
-    "25 10, MON": {
+    "25 OCT, MON": {
       "title": "Milwaukee Bucks at Indiana Pacers",
       "location": "Bankers Life Fieldhouse",
       "price": "$29+"
     },
-    "29 10, FRI": {
+    "29 OCT, FRI": {
       "title": "Indiana Pacers at Brooklyn Nets",
       "location": "Barclays Center",
       "price": "$41+"
     },
-    "30 10, SAT": {
+    "30 OCT, SAT": {
       "title": "Toronto Raptors at Indiana Pacers",
       "location": "Bankers Life Fieldhouse",
       "price": "$15+"
     },
-    "1 11, MON": {
+    "1 NOV, MON": {
       "title": "San Antonio Spurs at Indiana Pacers",
       "location": "Bankers Life Fieldhouse",
       "price": "$15+"
     },
-    "3 11, WED": {
+    "3 NOV, WED": {
       "title": "New York Knicks at Indiana Pacers",
       "location": "Bankers Life Fieldhouse",
       "price": "$20+"
     },
-    "5 11, FRI": {
+    "5 NOV, FRI": {
       "title": "Indiana Pacers at Portland Trail Blazers",
       "location": "Moda Center",
       "price": "$30+"
     },
-    "7 11, SUN": {
+    "7 NOV, SUN": {
       "title": "Indiana Pacers at Sacramento Kings",
       "location": "Golden 1 Center",
       "price": "$45+"
     },
-    "10 11, WED": {
+    "10 NOV, WED": {
       "title": "Indiana Pacers at Denver Nuggets",
       "location": "Ball Arena",
       "price": "$20+"
     },
-    "11 11, THU": {
+    "11 NOV, THU": {
       "title": "Indiana Pacers at Utah Jazz",
       "location": "Vivint Smart Home Arena",
       "price": "$21+"
     },
-    "13 11, SAT": {
+    "13 NOV, SAT": {
       "title": "Philadelphia 76ers at Indiana Pacers",
       "location": "Bankers Life Fieldhouse",
       "price": "$29+"
     },
-    "15 11, MON": {
+    "15 NOV, MON": {
       "title": "Indiana Pacers at New York Knicks",
       "location": "Madison Square Garden",
       "price": "$74+"
     },
-    "17 11, WED": {
+    "17 NOV, WED": {
       "title": "Indiana Pacers at Detroit Pistons",
       "location": "Little Caesars Arena",
       "price": "$19+"
     }
   },
   "Milwaukee Bucks": {
-    "8 10, FRI": {
+    "8 OCT, FRI": {
       "title": "Milwaukee Bucks at Brooklyn Nets",
       "location": "Barclays Center",
       "price": "$30+"
     },
-    "10 10, SUN": {
+    "10 OCT, SUN": {
       "title": "Oklahoma City Thunder at Milwaukee Bucks",
       "location": "Fiserv Forum",
       "price": "$15+"
     },
-    "13 10, WED": {
+    "13 OCT, WED": {
       "title": "Milwaukee Bucks at Utah Jazz",
       "location": "Vivint Smart Home Arena",
       "price": "$12+"
     },
-    "15 10, FRI": {
+    "15 OCT, FRI": {
       "title": "Dallas Mavericks at Milwaukee Bucks",
       "location": "Fiserv Forum",
       "price": "$16+"
     },
-    "19 10, TUE": {
+    "19 OCT, TUE": {
       "title": "Brooklyn Nets at Milwaukee Bucks",
       "location": "Fiserv Forum",
       "price": "$178+"
     },
-    "21 10, THU": {
+    "21 OCT, THU": {
       "title": "Milwaukee Bucks at Miami Heat",
       "location": "FTX Arena",
       "price": "$59+"
     },
-    "23 10, SAT": {
+    "23 OCT, SAT": {
       "title": "Milwaukee Bucks at San Antonio Spurs",
       "location": "AT&T Center",
       "price": "$25+"
     },
-    "25 10, MON": {
+    "25 OCT, MON": {
       "title": "Milwaukee Bucks at Indiana Pacers",
       "location": "Bankers Life Fieldhouse",
       "price": "$29+"
     },
-    "27 10, WED": {
+    "27 OCT, WED": {
       "title": "Minnesota Timberwolves at Milwaukee Bucks",
       "location": "Fiserv Forum",
       "price": "$47+"
     },
-    "30 10, SAT": {
+    "30 OCT, SAT": {
       "title": "San Antonio Spurs at Milwaukee Bucks",
       "location": "Fiserv Forum",
       "price": "$60+"
     },
-    "31 10, SUN": {
+    "31 OCT, SUN": {
       "title": "Utah Jazz at Milwaukee Bucks",
       "location": "Fiserv Forum",
       "price": "$47+"
     },
-    "2 11, TUE": {
+    "2 NOV, TUE": {
       "title": "Milwaukee Bucks at Detroit Pistons",
       "location": "Little Caesars Arena",
       "price": "$37+"
     },
-    "5 11, FRI": {
+    "5 NOV, FRI": {
       "title": "New York Knicks at Milwaukee Bucks",
       "location": "Fiserv Forum",
       "price": "$62+"
     },
-    "7 11, SUN": {
+    "7 NOV, SUN": {
       "title": "Milwaukee Bucks at Washington Wizards",
       "location": "Capital One Arena",
       "price": "$43+"
     },
-    "9 11, TUE": {
+    "9 NOV, TUE": {
       "title": "Milwaukee Bucks at Philadelphia 76ers",
       "location": "Wells Fargo Center",
       "price": "$64+"
     }
   },
   "Denver Nuggets": {
-    "6 10, WED": {
+    "6 OCT, WED": {
       "title": "Denver Nuggets at Golden State Warriors",
       "location": "Chase Center",
       "price": "$85+"
     },
-    "8 10, FRI": {
+    "8 OCT, FRI": {
       "title": "Minnesota Timberwolves at Denver Nuggets",
       "location": "Ball Arena",
       "price": "$22+"
     },
-    "13 10, WED": {
+    "13 OCT, WED": {
       "title": "Denver Nuggets at Oklahoma City Thunder",
       "location": "Paycom Center",
       "price": "$6+"
     },
-    "14 10, THU": {
+    "14 OCT, THU": {
       "title": "Denver Nuggets at Oklahoma City Thunder",
       "location": "BOK Center",
       "price": "$23+"
     },
-    "20 10, WED": {
+    "20 OCT, WED": {
       "title": "Denver Nuggets at Phoenix Suns",
       "location": "Footprint Center",
       "price": "$153+"
     },
-    "22 10, FRI": {
+    "22 OCT, FRI": {
       "title": "San Antonio Spurs at Denver Nuggets",
       "location": "Ball Arena",
       "price": "$40+"
     },
-    "25 10, MON": {
+    "25 OCT, MON": {
       "title": "Cleveland Cavaliers at Denver Nuggets",
       "location": "Ball Arena",
       "price": "$20+"
     },
-    "26 10, TUE": {
+    "26 OCT, TUE": {
       "title": "Denver Nuggets at Utah Jazz",
       "location": "Vivint Smart Home Arena",
       "price": "$21+"
     },
-    "29 10, FRI": {
+    "29 OCT, FRI": {
       "title": "Dallas Mavericks at Denver Nuggets",
       "location": "Ball Arena",
       "price": "$52+"
     },
-    "30 10, SAT": {
+    "30 OCT, SAT": {
       "title": "Denver Nuggets at Minnesota Timberwolves",
       "location": "Target Center",
       "price": "$54+"
     },
-    "1 11, MON": {
+    "1 NOV, MON": {
       "title": "Denver Nuggets at Memphis Grizzlies",
       "location": "FedExForum",
       "price": "$5+"
     },
-    "3 11, WED": {
+    "3 NOV, WED": {
       "title": "Denver Nuggets at Memphis Grizzlies",
       "location": "FedExForum",
       "price": "$6+"
     },
-    "6 11, SAT": {
+    "6 NOV, SAT": {
       "title": "Houston Rockets at Denver Nuggets",
       "location": "Ball Arena",
       "price": "$29+"
     },
-    "8 11, MON": {
+    "8 NOV, MON": {
       "title": "Miami Heat at Denver Nuggets",
       "location": "Ball Arena",
       "price": "$22+"
     },
-    "10 11, WED": {
+    "10 NOV, WED": {
       "title": "Indiana Pacers at Denver Nuggets",
       "location": "Ball Arena",
       "price": "$20+"
     }
   },
   "Minnesota Timberwolves": {
-    "4 10, MON": {
+    "4 OCT, MON": {
       "title": "7:00 PM\u2022Preseason Game\u2022Target Center",
       "location": "None",
       "price": "New Orleans Pelicans at Minnesota Timberwolves"
     },
-    "8 10, FRI": {
+    "8 OCT, FRI": {
       "title": "Minnesota Timberwolves at Denver Nuggets",
       "location": "Ball Arena",
       "price": "$22+"
     },
-    "14 10, THU": {
+    "14 OCT, THU": {
       "title": "Minnesota Timberwolves at Brooklyn Nets",
       "location": "Barclays Center",
       "price": "$19+"
     },
-    "20 10, WED": {
+    "20 OCT, WED": {
       "title": "Houston Rockets at Minnesota Timberwolves",
       "location": "Target Center",
       "price": "$63+"
     },
-    "23 10, SAT": {
+    "23 OCT, SAT": {
       "title": "New Orleans Pelicans at Minnesota Timberwolves",
       "location": "Target Center",
       "price": "$67+"
     },
-    "25 10, MON": {
+    "25 OCT, MON": {
       "title": "New Orleans Pelicans at Minnesota Timberwolves",
       "location": "Target Center",
       "price": "$63+"
     },
-    "27 10, WED": {
+    "27 OCT, WED": {
       "title": "Minnesota Timberwolves at Milwaukee Bucks",
       "location": "Fiserv Forum",
       "price": "$47+"
     },
-    "30 10, SAT": {
+    "30 OCT, SAT": {
       "title": "Denver Nuggets at Minnesota Timberwolves",
       "location": "Target Center",
       "price": "$54+"
     },
-    "1 11, MON": {
+    "1 NOV, MON": {
       "title": "Orlando Magic at Minnesota Timberwolves",
       "location": "Target Center",
       "price": "$54+"
     },
-    "3 11, WED": {
+    "3 NOV, WED": {
       "title": "LA Clippers at Minnesota Timberwolves",
       "location": "Target Center",
       "price": "$63+"
     },
-    "5 11, FRI": {
+    "5 NOV, FRI": {
       "title": "LA Clippers at Minnesota Timberwolves",
       "location": "Target Center",
       "price": "$67+"
     },
-    "8 11, MON": {
+    "8 NOV, MON": {
       "title": "Minnesota Timberwolves at Memphis Grizzlies",
       "location": "FedExForum",
       "price": "$5+"
     },
-    "10 11, WED": {
+    "10 NOV, WED": {
       "title": "Minnesota Timberwolves at Golden State Warriors",
       "location": "Chase Center",
       "price": "$88+"
     },
-    "12 11, FRI": {
+    "12 NOV, FRI": {
       "title": "Minnesota Timberwolves at Los Angeles Lakers",
       "location": "Staples Center",
       "price": "$68+"
     },
-    "13 11, SAT": {
+    "13 NOV, SAT": {
       "title": "Minnesota Timberwolves at LA Clippers",
       "location": "Staples Center",
       "price": "$23+"
     }
   },
   "Oklahoma City Thunder": {
-    "4 10, MON": {
+    "4 OCT, MON": {
       "title": "Charlotte Hornets at Oklahoma City Thunder",
       "location": "Paycom Center",
       "price": "$6+"
     },
-    "10 10, SUN": {
+    "10 OCT, SUN": {
       "title": "Oklahoma City Thunder at Milwaukee Bucks",
       "location": "Fiserv Forum",
       "price": "$15+"
     },
-    "13 10, WED": {
+    "13 OCT, WED": {
       "title": "Denver Nuggets at Oklahoma City Thunder",
       "location": "Paycom Center",
       "price": "$6+"
     },
-    "14 10, THU": {
+    "14 OCT, THU": {
       "title": "Denver Nuggets at Oklahoma City Thunder",
       "location": "BOK Center",
       "price": "$23+"
     },
-    "20 10, WED": {
+    "20 OCT, WED": {
       "title": "Oklahoma City Thunder at Utah Jazz",
       "location": "Vivint Smart Home Arena",
       "price": "$29+"
     },
-    "22 10, FRI": {
+    "22 OCT, FRI": {
       "title": "Oklahoma City Thunder at Houston Rockets",
       "location": "Toyota Center",
       "price": "$27+"
     },
-    "24 10, SUN": {
+    "24 OCT, SUN": {
       "title": "Philadelphia 76ers at Oklahoma City Thunder",
       "location": "Paycom Center",
       "price": "$24+"
     },
-    "26 10, TUE": {
+    "26 OCT, TUE": {
       "title": "Golden State Warriors at Oklahoma City Thunder",
       "location": "Paycom Center",
       "price": "$39+"
     },
-    "27 10, WED": {
+    "27 OCT, WED": {
       "title": "Los Angeles Lakers at Oklahoma City Thunder",
       "location": "Paycom Center",
       "price": "$75+"
     },
-    "30 10, SAT": {
+    "30 OCT, SAT": {
       "title": "Oklahoma City Thunder at Golden State Warriors",
       "location": "Chase Center",
       "price": "$107+"
     },
-    "1 11, MON": {
+    "1 NOV, MON": {
       "title": "Oklahoma City Thunder at LA Clippers",
       "location": "Staples Center",
       "price": "$15+"
     },
-    "4 11, THU": {
+    "4 NOV, THU": {
       "title": "Oklahoma City Thunder at Los Angeles Lakers",
       "location": "Staples Center",
       "price": "$68+"
     },
-    "7 11, SUN": {
+    "7 NOV, SUN": {
       "title": "San Antonio Spurs at Oklahoma City Thunder",
       "location": "Paycom Center",
       "price": "$15+"
     },
-    "10 11, WED": {
+    "10 NOV, WED": {
       "title": "Oklahoma City Thunder at New Orleans Pelicans",
       "location": "Smoothie King Center",
       "price": "$9+"
     },
-    "12 11, FRI": {
+    "12 NOV, FRI": {
       "title": "Sacramento Kings at Oklahoma City Thunder",
       "location": "Paycom Center",
       "price": "$14+"
     }
   },
   "Portland Trail Blazers": {
-    "4 10, MON": {
+    "4 OCT, MON": {
       "title": "Golden State Warriors at Portland Trail Blazers",
       "location": "Moda Center",
       "price": "$40+"
     },
-    "11 10, MON": {
+    "11 OCT, MON": {
       "title": "Sacramento Kings at Portland Trail Blazers",
       "location": "Moda Center",
       "price": "$21+"
     },
-    "15 10, FRI": {
+    "15 OCT, FRI": {
       "title": "Portland Trail Blazers at Golden State Warriors",
       "location": "Chase Center",
       "price": "$88+"
     },
-    "20 10, WED": {
+    "20 OCT, WED": {
       "title": "Sacramento Kings at Portland Trail Blazers",
       "location": "Moda Center",
       "price": "$41+"
     },
-    "23 10, SAT": {
+    "23 OCT, SAT": {
       "title": "Phoenix Suns at Portland Trail Blazers",
       "location": "Moda Center",
       "price": "$35+"
     },
-    "25 10, MON": {
+    "25 OCT, MON": {
       "title": "Portland Trail Blazers at LA Clippers",
       "location": "Staples Center",
       "price": "$20+"
     },
-    "27 10, WED": {
+    "27 OCT, WED": {
       "title": "Memphis Grizzlies at Portland Trail Blazers",
       "location": "Moda Center",
       "price": "$21+"
     },
-    "29 10, FRI": {
+    "29 OCT, FRI": {
       "title": "LA Clippers at Portland Trail Blazers",
       "location": "Moda Center",
       "price": "$41+"
     },
-    "31 10, SUN": {
+    "31 OCT, SUN": {
       "title": "Portland Trail Blazers at Charlotte Hornets",
       "location": "Spectrum Center",
       "price": "$15+"
     },
-    "1 11, MON": {
+    "1 NOV, MON": {
       "title": "Portland Trail Blazers at Philadelphia 76ers",
       "location": "Wells Fargo Center",
       "price": "$28+"
     },
-    "5 11, FRI": {
+    "5 NOV, FRI": {
       "title": "Indiana Pacers at Portland Trail Blazers",
       "location": "Moda Center",
       "price": "$30+"
     },
-    "6 11, SAT": {
+    "6 NOV, SAT": {
       "title": "Los Angeles Lakers at Portland Trail Blazers",
       "location": "Moda Center",
       "price": "$108+"
     },
-    "9 11, TUE": {
+    "9 NOV, TUE": {
       "title": "Portland Trail Blazers at LA Clippers",
       "location": "Staples Center",
       "price": "$19+"
     },
-    "10 11, WED": {
+    "10 NOV, WED": {
       "title": "Portland Trail Blazers at Phoenix Suns",
       "location": "Footprint Center",
       "price": "$100+"
     },
-    "12 11, FRI": {
+    "12 NOV, FRI": {
       "title": "Portland Trail Blazers at Houston Rockets",
       "location": "Toyota Center",
       "price": "$26+"
     }
   },
   "Utah Jazz": {
-    "4 10, MON": {
+    "4 OCT, MON": {
       "title": "Utah Jazz at San Antonio Spurs",
       "location": "AT&T Center",
       "price": "$7+"
     },
-    "6 10, WED": {
+    "6 OCT, WED": {
       "title": "Utah Jazz at Dallas Mavericks",
       "location": "American Airlines Center",
       "price": "$41+"
     },
-    "11 10, MON": {
+    "11 OCT, MON": {
       "title": "New Orleans Pelicans at Utah Jazz",
       "location": "Vivint Smart Home Arena",
       "price": "$11+"
     },
-    "13 10, WED": {
+    "13 OCT, WED": {
       "title": "Milwaukee Bucks at Utah Jazz",
       "location": "Vivint Smart Home Arena",
       "price": "$12+"
     },
-    "20 10, WED": {
+    "20 OCT, WED": {
       "title": "Oklahoma City Thunder at Utah Jazz",
       "location": "Vivint Smart Home Arena",
       "price": "$29+"
     },
-    "22 10, FRI": {
+    "22 OCT, FRI": {
       "title": "Utah Jazz at Sacramento Kings",
       "location": "Golden 1 Center",
       "price": "$59+"
     },
-    "26 10, TUE": {
+    "26 OCT, TUE": {
       "title": "Denver Nuggets at Utah Jazz",
       "location": "Vivint Smart Home Arena",
       "price": "$21+"
     },
-    "28 10, THU": {
+    "28 OCT, THU": {
       "title": "Utah Jazz at Houston Rockets",
       "location": "Toyota Center",
       "price": "$25+"
     },
-    "30 10, SAT": {
+    "30 OCT, SAT": {
       "title": "Utah Jazz at Chicago Bulls",
       "location": "United Center",
       "price": "$41+"
     },
-    "31 10, SUN": {
+    "31 OCT, SUN": {
       "title": "Utah Jazz at Milwaukee Bucks",
       "location": "Fiserv Forum",
       "price": "$47+"
     },
-    "2 11, TUE": {
+    "2 NOV, TUE": {
       "title": "Sacramento Kings at Utah Jazz",
       "location": "Vivint Smart Home Arena",
       "price": "$19+"
     },
-    "4 11, THU": {
+    "4 NOV, THU": {
       "title": "Utah Jazz at Atlanta Hawks",
       "location": "State Farm Arena",
       "price": "$104+"
     },
-    "6 11, SAT": {
+    "6 NOV, SAT": {
       "title": "Utah Jazz at Miami Heat",
       "location": "FTX Arena",
       "price": "$38+"
     },
-    "7 11, SUN": {
+    "7 NOV, SUN": {
       "title": "Utah Jazz at Orlando Magic",
       "location": "Amway Center",
       "price": "$18+"
     },
-    "9 11, TUE": {
+    "9 NOV, TUE": {
       "title": "Atlanta Hawks at Utah Jazz",
       "location": "Vivint Smart Home Arena",
       "price": "$23+"
     }
   },
   "Golden State Warriors": {
-    "4 10, MON": {
+    "4 OCT, MON": {
       "title": "Golden State Warriors at Portland Trail Blazers",
       "location": "Moda Center",
       "price": "$40+"
     },
-    "6 10, WED": {
+    "6 OCT, WED": {
       "title": "Denver Nuggets at Golden State Warriors",
       "location": "Chase Center",
       "price": "$85+"
     },
-    "8 10, FRI": {
+    "8 OCT, FRI": {
       "title": "Los Angeles Lakers at Golden State Warriors",
       "location": "Chase Center",
       "price": "$134+"
     },
-    "12 10, TUE": {
+    "12 OCT, TUE": {
       "title": "Golden State Warriors at Los Angeles Lakers",
       "location": "Staples Center",
       "price": "$51+"
     },
-    "15 10, FRI": {
+    "15 OCT, FRI": {
       "title": "Portland Trail Blazers at Golden State Warriors",
       "location": "Chase Center",
       "price": "$88+"
     },
-    "19 10, TUE": {
+    "19 OCT, TUE": {
       "title": "Golden State Warriors at Los Angeles Lakers",
       "location": "Staples Center",
       "price": "$262+"
     },
-    "21 10, THU": {
+    "21 OCT, THU": {
       "title": "LA Clippers at Golden State Warriors",
       "location": "Chase Center",
       "price": "$203+"
     },
-    "24 10, SUN": {
+    "24 OCT, SUN": {
       "title": "Golden State Warriors at Sacramento Kings",
       "location": "Golden 1 Center",
       "price": "$89+"
     },
-    "26 10, TUE": {
+    "26 OCT, TUE": {
       "title": "Golden State Warriors at Oklahoma City Thunder",
       "location": "Paycom Center",
       "price": "$39+"
     },
-    "28 10, THU": {
+    "28 OCT, THU": {
       "title": "Memphis Grizzlies at Golden State Warriors",
       "location": "Chase Center",
       "price": "$94+"
     },
-    "30 10, SAT": {
+    "30 OCT, SAT": {
       "title": "Oklahoma City Thunder at Golden State Warriors",
       "location": "Chase Center",
       "price": "$107+"
     },
-    "3 11, WED": {
+    "3 NOV, WED": {
       "title": "Charlotte Hornets at Golden State Warriors",
       "location": "Chase Center",
       "price": "$89+"
     },
-    "5 11, FRI": {
+    "5 NOV, FRI": {
       "title": "New Orleans Pelicans at Golden State Warriors",
       "location": "Chase Center",
       "price": "$147+"
     },
-    "7 11, SUN": {
+    "7 NOV, SUN": {
       "title": "Houston Rockets at Golden State Warriors",
       "location": "Chase Center",
       "price": "$105+"
     },
-    "8 11, MON": {
+    "8 NOV, MON": {
       "title": "Atlanta Hawks at Golden State Warriors",
       "location": "Chase Center",
       "price": "$105+"
     }
   },
   "LA Clippers": {
-    "8 10, FRI": {
+    "8 OCT, FRI": {
       "title": "LA Clippers at Dallas Mavericks",
       "location": "American Airlines Center",
       "price": "$91+"
     },
-    "21 10, THU": {
+    "21 OCT, THU": {
       "title": "LA Clippers at Golden State Warriors",
       "location": "Chase Center",
       "price": "$203+"
     },
-    "23 10, SAT": {
+    "23 OCT, SAT": {
       "title": "Memphis Grizzlies at LA Clippers",
       "location": "Staples Center",
       "price": "$30+"
     },
-    "25 10, MON": {
+    "25 OCT, MON": {
       "title": "Portland Trail Blazers at LA Clippers",
       "location": "Staples Center",
       "price": "$20+"
     },
-    "27 10, WED": {
+    "27 OCT, WED": {
       "title": "Cleveland Cavaliers at LA Clippers",
       "location": "Staples Center",
       "price": "$16+"
     },
-    "29 10, FRI": {
+    "29 OCT, FRI": {
       "title": "LA Clippers at Portland Trail Blazers",
       "location": "Moda Center",
       "price": "$41+"
     },
-    "1 11, MON": {
+    "1 NOV, MON": {
       "title": "Oklahoma City Thunder at LA Clippers",
       "location": "Staples Center",
       "price": "$15+"
     },
-    "3 11, WED": {
+    "3 NOV, WED": {
       "title": "LA Clippers at Minnesota Timberwolves",
       "location": "Target Center",
       "price": "$63+"
     },
-    "5 11, FRI": {
+    "5 NOV, FRI": {
       "title": "LA Clippers at Minnesota Timberwolves",
       "location": "Target Center",
       "price": "$67+"
     },
-    "7 11, SUN": {
+    "7 NOV, SUN": {
       "title": "Charlotte Hornets at LA Clippers",
       "location": "Staples Center",
       "price": "$26+"
     },
-    "9 11, TUE": {
+    "9 NOV, TUE": {
       "title": "Portland Trail Blazers at LA Clippers",
       "location": "Staples Center",
       "price": "$19+"
     },
-    "11 11, THU": {
+    "11 NOV, THU": {
       "title": "Miami Heat at LA Clippers",
       "location": "Staples Center",
       "price": "$26+"
     },
-    "13 11, SAT": {
+    "13 NOV, SAT": {
       "title": "Minnesota Timberwolves at LA Clippers",
       "location": "Staples Center",
       "price": "$23+"
     },
-    "14 11, SUN": {
+    "14 NOV, SUN": {
       "title": "12:30 PM\u2022Staples Center",
       "location": "None",
       "price": "Chicago Bulls at LA Clippers"
     },
-    "16 11, TUE": {
+    "16 NOV, TUE": {
       "title": "San Antonio Spurs at LA Clippers",
       "location": "Staples Center",
       "price": "$17+"
     }
   },
   "Los Angeles Lakers": {
-    "3 10, SUN": {
+    "3 OCT, SUN": {
       "title": "Brooklyn Nets at Los Angeles Lakers",
       "location": "Staples Center",
       "price": "$59+"
     },
-    "6 10, WED": {
+    "6 OCT, WED": {
       "title": "Los Angeles Lakers at Phoenix Suns",
       "location": "Footprint Center",
       "price": "$173+"
     },
-    "8 10, FRI": {
+    "8 OCT, FRI": {
       "title": "Los Angeles Lakers at Golden State Warriors",
       "location": "Chase Center",
       "price": "$134+"
     },
-    "10 10, SUN": {
+    "10 OCT, SUN": {
       "title": "Phoenix Suns at Los Angeles Lakers",
       "location": "Staples Center",
       "price": "$38+"
     },
-    "12 10, TUE": {
+    "12 OCT, TUE": {
       "title": "Golden State Warriors at Los Angeles Lakers",
       "location": "Staples Center",
       "price": "$51+"
     },
-    "14 10, THU": {
+    "14 OCT, THU": {
       "title": "Los Angeles Lakers at Sacramento Kings",
       "location": "Golden 1 Center",
       "price": "$108+"
     },
-    "19 10, TUE": {
+    "19 OCT, TUE": {
       "title": "Golden State Warriors at Los Angeles Lakers",
       "location": "Staples Center",
       "price": "$262+"
     },
-    "22 10, FRI": {
+    "22 OCT, FRI": {
       "title": "Phoenix Suns at Los Angeles Lakers",
       "location": "Staples Center",
       "price": "$91+"
     },
-    "24 10, SUN": {
+    "24 OCT, SUN": {
       "title": "Memphis Grizzlies at Los Angeles Lakers",
       "location": "Staples Center",
       "price": "$76+"
     },
-    "26 10, TUE": {
+    "26 OCT, TUE": {
       "title": "Los Angeles Lakers at San Antonio Spurs",
       "location": "AT&T Center",
       "price": "$60+"
     },
-    "27 10, WED": {
+    "27 OCT, WED": {
       "title": "Los Angeles Lakers at Oklahoma City Thunder",
       "location": "Paycom Center",
       "price": "$75+"
     },
-    "29 10, FRI": {
+    "29 OCT, FRI": {
       "title": "Cleveland Cavaliers at Los Angeles Lakers",
       "location": "Staples Center",
       "price": "$77+"
     },
-    "31 10, SUN": {
+    "31 OCT, SUN": {
       "title": "Houston Rockets at Los Angeles Lakers",
       "location": "Staples Center",
       "price": "$65+"
     },
-    "2 11, TUE": {
+    "2 NOV, TUE": {
       "title": "Houston Rockets at Los Angeles Lakers",
       "location": "Staples Center",
       "price": "$59+"
     },
-    "4 11, THU": {
+    "4 NOV, THU": {
       "title": "Oklahoma City Thunder at Los Angeles Lakers",
       "location": "Staples Center",
       "price": "$68+"
     }
   },
   "Phoenix Suns": {
-    "6 10, WED": {
+    "6 OCT, WED": {
       "title": "Los Angeles Lakers at Phoenix Suns",
       "location": "Footprint Center",
       "price": "$173+"
     },
-    "10 10, SUN": {
+    "10 OCT, SUN": {
       "title": "Phoenix Suns at Los Angeles Lakers",
       "location": "Staples Center",
       "price": "$38+"
     },
-    "20 10, WED": {
+    "20 OCT, WED": {
       "title": "Denver Nuggets at Phoenix Suns",
       "location": "Footprint Center",
       "price": "$153+"
     },
-    "22 10, FRI": {
+    "22 OCT, FRI": {
       "title": "Phoenix Suns at Los Angeles Lakers",
       "location": "Staples Center",
       "price": "$91+"
     },
-    "23 10, SAT": {
+    "23 OCT, SAT": {
       "title": "Phoenix Suns at Portland Trail Blazers",
       "location": "Moda Center",
       "price": "$35+"
     },
-    "27 10, WED": {
+    "27 OCT, WED": {
       "title": "Sacramento Kings at Phoenix Suns",
       "location": "Footprint Center",
       "price": "$50+"
     },
-    "30 10, SAT": {
+    "30 OCT, SAT": {
       "title": "Cleveland Cavaliers at Phoenix Suns",
       "location": "Footprint Center",
       "price": "$70+"
     },
-    "2 11, TUE": {
+    "2 NOV, TUE": {
       "title": "New Orleans Pelicans at Phoenix Suns",
       "location": "Footprint Center",
       "price": "$74+"
     },
-    "4 11, THU": {
+    "4 NOV, THU": {
       "title": "Houston Rockets at Phoenix Suns",
       "location": "Footprint Center",
       "price": "$41+"
     },
-    "6 11, SAT": {
+    "6 NOV, SAT": {
       "title": "Atlanta Hawks at Phoenix Suns",
       "location": "Footprint Center",
       "price": "$81+"
     },
-    "8 11, MON": {
+    "8 NOV, MON": {
       "title": "Phoenix Suns at Sacramento Kings",
       "location": "Golden 1 Center",
       "price": "$37+"
     },
-    "10 11, WED": {
+    "10 NOV, WED": {
       "title": "Portland Trail Blazers at Phoenix Suns",
       "location": "Footprint Center",
       "price": "$100+"
     },
-    "12 11, FRI": {
+    "12 NOV, FRI": {
       "title": "Phoenix Suns at Memphis Grizzlies",
       "location": "FedExForum",
       "price": "$14+"
     },
-    "14 11, SUN": {
+    "14 NOV, SUN": {
       "title": "Phoenix Suns at Houston Rockets",
       "location": "Toyota Center",
       "price": "$26+"
     },
-    "15 11, MON": {
+    "15 NOV, MON": {
       "title": "Phoenix Suns at Minnesota Timberwolves",
       "location": "Target Center",
       "price": "$56+"
     }
   },
   "Sacramento Kings": {
-    "11 10, MON": {
+    "11 OCT, MON": {
       "title": "Sacramento Kings at Portland Trail Blazers",
       "location": "Moda Center",
       "price": "$21+"
     },
-    "14 10, THU": {
+    "14 OCT, THU": {
       "title": "Los Angeles Lakers at Sacramento Kings",
       "location": "Golden 1 Center",
       "price": "$108+"
     },
-    "20 10, WED": {
+    "20 OCT, WED": {
       "title": "Sacramento Kings at Portland Trail Blazers",
       "location": "Moda Center",
       "price": "$41+"
     },
-    "22 10, FRI": {
+    "22 OCT, FRI": {
       "title": "Utah Jazz at Sacramento Kings",
       "location": "Golden 1 Center",
       "price": "$59+"
     },
-    "24 10, SUN": {
+    "24 OCT, SUN": {
       "title": "Golden State Warriors at Sacramento Kings",
       "location": "Golden 1 Center",
       "price": "$89+"
     },
-    "27 10, WED": {
+    "27 OCT, WED": {
       "title": "Sacramento Kings at Phoenix Suns",
       "location": "Footprint Center",
       "price": "$50+"
     },
-    "29 10, FRI": {
+    "29 OCT, FRI": {
       "title": "Sacramento Kings at New Orleans Pelicans",
       "location": "Smoothie King Center",
       "price": "$13+"
     },
-    "31 10, SUN": {
+    "31 OCT, SUN": {
       "title": "Sacramento Kings at Dallas Mavericks",
       "location": "American Airlines Center",
       "price": "$56+"
     },
-    "2 11, TUE": {
+    "2 NOV, TUE": {
       "title": "Sacramento Kings at Utah Jazz",
       "location": "Vivint Smart Home Arena",
       "price": "$19+"
     },
-    "3 11, WED": {
+    "3 NOV, WED": {
       "title": "New Orleans Pelicans at Sacramento Kings",
       "location": "Golden 1 Center",
       "price": "$37+"
     },
-    "5 11, FRI": {
+    "5 NOV, FRI": {
       "title": "Charlotte Hornets at Sacramento Kings",
       "location": "Golden 1 Center",
       "price": "$37+"
     },
-    "7 11, SUN": {
+    "7 NOV, SUN": {
       "title": "Indiana Pacers at Sacramento Kings",
       "location": "Golden 1 Center",
       "price": "$45+"
     },
-    "8 11, MON": {
+    "8 NOV, MON": {
       "title": "Phoenix Suns at Sacramento Kings",
       "location": "Golden 1 Center",
       "price": "$37+"
     },
-    "10 11, WED": {
+    "10 NOV, WED": {
       "title": "Sacramento Kings at San Antonio Spurs",
       "location": "AT&T Center",
       "price": "$12+"
     },
-    "12 11, FRI": {
+    "12 NOV, FRI": {
       "title": "Sacramento Kings at Oklahoma City Thunder",
       "location": "Paycom Center",
       "price": "$14+"
     }
   },
   "Atlanta Hawks": {
-    "4 10, MON": {
+    "4 OCT, MON": {
       "title": "Atlanta Hawks at Miami Heat",
       "location": "FTX Arena",
       "price": "$15+"
     },
-    "21 10, THU": {
+    "21 OCT, THU": {
       "title": "Dallas Mavericks at Atlanta Hawks",
       "location": "State Farm Arena",
       "price": "$115+"
     },
-    "25 10, MON": {
+    "25 OCT, MON": {
       "title": "Detroit Pistons at Atlanta Hawks",
       "location": "State Farm Arena",
       "price": "$98+"
     },
-    "27 10, WED": {
+    "27 OCT, WED": {
       "title": "Atlanta Hawks at New Orleans Pelicans",
       "location": "Smoothie King Center",
       "price": "$14+"
     },
-    "28 10, THU": {
+    "28 OCT, THU": {
       "title": "Atlanta Hawks at Washington Wizards",
       "location": "Capital One Arena",
       "price": "$25+"
     },
-    "30 10, SAT": {
+    "30 OCT, SAT": {
       "title": "Atlanta Hawks at Philadelphia 76ers",
       "location": "Wells Fargo Center",
       "price": "$58+"
     },
-    "1 11, MON": {
+    "1 NOV, MON": {
       "title": "Washington Wizards at Atlanta Hawks",
       "location": "State Farm Arena",
       "price": "$98+"
     },
-    "3 11, WED": {
+    "3 NOV, WED": {
       "title": "Atlanta Hawks at Brooklyn Nets",
       "location": "Barclays Center",
       "price": "$42+"
     },
-    "4 11, THU": {
+    "4 NOV, THU": {
       "title": "Utah Jazz at Atlanta Hawks",
       "location": "State Farm Arena",
       "price": "$104+"
     },
-    "6 11, SAT": {
+    "6 NOV, SAT": {
       "title": "Atlanta Hawks at Phoenix Suns",
       "location": "Footprint Center",
       "price": "$81+"
     },
-    "8 11, MON": {
+    "8 NOV, MON": {
       "title": "Atlanta Hawks at Golden State Warriors",
       "location": "Chase Center",
       "price": "$105+"
     },
-    "9 11, TUE": {
+    "9 NOV, TUE": {
       "title": "Atlanta Hawks at Utah Jazz",
       "location": "Vivint Smart Home Arena",
       "price": "$23+"
     },
-    "12 11, FRI": {
+    "12 NOV, FRI": {
       "title": "Atlanta Hawks at Denver Nuggets",
       "location": "Ball Arena",
       "price": "$41+"
     },
-    "14 11, SUN": {
+    "14 NOV, SUN": {
       "title": "Milwaukee Bucks at Atlanta Hawks",
       "location": "State Farm Arena",
       "price": "$151+"
     },
-    "15 11, MON": {
+    "15 NOV, MON": {
       "title": "Orlando Magic at Atlanta Hawks",
       "location": "State Farm Arena",
       "price": "$76+"
     }
   },
   "Charlotte Hornets": {
-    "4 10, MON": {
+    "4 OCT, MON": {
       "title": "Charlotte Hornets at Oklahoma City Thunder",
       "location": "Paycom Center",
       "price": "$6+"
     },
-    "7 10, THU": {
+    "7 OCT, THU": {
       "title": "Memphis Grizzlies at Charlotte Hornets",
       "location": "Spectrum Center",
       "price": "$7+"
     },
-    "11 10, MON": {
+    "11 OCT, MON": {
       "title": "Charlotte Hornets at Miami Heat",
       "location": "FTX Arena",
       "price": "$11+"
     },
-    "13 10, WED": {
+    "13 OCT, WED": {
       "title": "Dallas Mavericks at Charlotte Hornets",
       "location": "Spectrum Center",
       "price": "$10+"
     },
-    "20 10, WED": {
+    "20 OCT, WED": {
       "title": "Indiana Pacers at Charlotte Hornets",
       "location": "Spectrum Center",
       "price": "$24+"
     },
-    "22 10, FRI": {
+    "22 OCT, FRI": {
       "title": "Charlotte Hornets at Cleveland Cavaliers",
       "location": "Rocket Mortgage FieldHouse",
       "price": "$40+"
     },
-    "24 10, SUN": {
+    "24 OCT, SUN": {
       "title": "Charlotte Hornets at Brooklyn Nets",
       "location": "Barclays Center",
       "price": "$55+"
     },
-    "25 10, MON": {
+    "25 OCT, MON": {
       "title": "Boston Celtics at Charlotte Hornets",
       "location": "Spectrum Center",
       "price": "$23+"
     },
-    "27 10, WED": {
+    "27 OCT, WED": {
       "title": "Charlotte Hornets at Orlando Magic",
       "location": "Amway Center",
       "price": "$18+"
     },
-    "29 10, FRI": {
+    "29 OCT, FRI": {
       "title": "Charlotte Hornets at Miami Heat",
       "location": "FTX Arena",
       "price": "$34+"
     },
-    "31 10, SUN": {
+    "31 OCT, SUN": {
       "title": "Portland Trail Blazers at Charlotte Hornets",
       "location": "Spectrum Center",
       "price": "$15+"
     },
-    "1 11, MON": {
+    "1 NOV, MON": {
       "title": "Cleveland Cavaliers at Charlotte Hornets",
       "location": "Spectrum Center",
       "price": "$11+"
     },
-    "3 11, WED": {
+    "3 NOV, WED": {
       "title": "Charlotte Hornets at Golden State Warriors",
       "location": "Chase Center",
       "price": "$89+"
     },
-    "5 11, FRI": {
+    "5 NOV, FRI": {
       "title": "Charlotte Hornets at Sacramento Kings",
       "location": "Golden 1 Center",
       "price": "$37+"
     },
-    "7 11, SUN": {
+    "7 NOV, SUN": {
       "title": "Charlotte Hornets at LA Clippers",
       "location": "Staples Center",
       "price": "$26+"
     }
   },
   "Miami Heat": {
-    "4 10, MON": {
+    "4 OCT, MON": {
       "title": "Atlanta Hawks at Miami Heat",
       "location": "FTX Arena",
       "price": "$15+"
     },
-    "7 10, THU": {
+    "7 OCT, THU": {
       "title": "Miami Heat at Houston Rockets",
       "location": "Toyota Center",
       "price": "$27+"
     },
-    "8 10, FRI": {
+    "8 OCT, FRI": {
       "title": "Miami Heat at San Antonio Spurs",
       "location": "AT&T Center",
       "price": "$9+"
     },
-    "11 10, MON": {
+    "11 OCT, MON": {
       "title": "Charlotte Hornets at Miami Heat",
       "location": "FTX Arena",
       "price": "$11+"
     },
-    "15 10, FRI": {
+    "15 OCT, FRI": {
       "title": "Boston Celtics at Miami Heat",
       "location": "FTX Arena",
       "price": "$18+"
     },
-    "21 10, THU": {
+    "21 OCT, THU": {
       "title": "Milwaukee Bucks at Miami Heat",
       "location": "FTX Arena",
       "price": "$59+"
     },
-    "23 10, SAT": {
+    "23 OCT, SAT": {
       "title": "Miami Heat at Indiana Pacers",
       "location": "Bankers Life Fieldhouse",
       "price": "$20+"
     },
-    "25 10, MON": {
+    "25 OCT, MON": {
       "title": "Orlando Magic at Miami Heat",
       "location": "FTX Arena",
       "price": "$30+"
     },
-    "27 10, WED": {
+    "27 OCT, WED": {
       "title": "Miami Heat at Brooklyn Nets",
       "location": "Barclays Center",
       "price": "$37+"
     },
-    "29 10, FRI": {
+    "29 OCT, FRI": {
       "title": "Charlotte Hornets at Miami Heat",
       "location": "FTX Arena",
       "price": "$34+"
     },
-    "30 10, SAT": {
+    "30 OCT, SAT": {
       "title": "Miami Heat at Memphis Grizzlies",
       "location": "FedExForum",
       "price": "$14+"
     },
-    "2 11, TUE": {
+    "2 NOV, TUE": {
       "title": "Miami Heat at Dallas Mavericks",
       "location": "American Airlines Center",
       "price": "$37+"
     },
-    "4 11, THU": {
+    "4 NOV, THU": {
       "title": "Boston Celtics at Miami Heat",
       "location": "FTX Arena",
       "price": "$33+"
     },
-    "6 11, SAT": {
+    "6 NOV, SAT": {
       "title": "Utah Jazz at Miami Heat",
       "location": "FTX Arena",
       "price": "$38+"
     },
-    "8 11, MON": {
+    "8 NOV, MON": {
       "title": "Miami Heat at Denver Nuggets",
       "location": "Ball Arena",
       "price": "$22+"
     }
   },
   "Orlando Magic": {
-    "6 10, WED": {
+    "6 OCT, WED": {
       "title": "Orlando Magic at New Orleans Pelicans",
       "location": "Smoothie King Center",
       "price": "$8+"
     },
-    "10 10, SUN": {
+    "10 OCT, SUN": {
       "title": "San Antonio Spurs at Orlando Magic",
       "location": "Amway Center",
       "price": "$13+"
     },
-    "13 10, WED": {
+    "13 OCT, WED": {
       "title": "Boston Celtics at Orlando Magic",
       "location": "Amway Center",
       "price": "$13+"
     },
-    "20 10, WED": {
+    "20 OCT, WED": {
       "title": "Orlando Magic at San Antonio Spurs",
       "location": "AT&T Center",
       "price": "$15+"
     },
-    "22 10, FRI": {
+    "22 OCT, FRI": {
       "title": "New York Knicks at Orlando Magic",
       "location": "Amway Center",
       "price": "$33+"
     },
-    "24 10, SUN": {
+    "24 OCT, SUN": {
       "title": "Orlando Magic at New York Knicks",
       "location": "Madison Square Garden",
       "price": "$91+"
     },
-    "25 10, MON": {
+    "25 OCT, MON": {
       "title": "Orlando Magic at Miami Heat",
       "location": "FTX Arena",
       "price": "$30+"
     },
-    "27 10, WED": {
+    "27 OCT, WED": {
       "title": "Charlotte Hornets at Orlando Magic",
       "location": "Amway Center",
       "price": "$18+"
     },
-    "30 10, SAT": {
+    "30 OCT, SAT": {
       "title": "Orlando Magic at Detroit Pistons",
       "location": "Little Caesars Arena",
       "price": "$28+"
     },
-    "1 11, MON": {
+    "1 NOV, MON": {
       "title": "Orlando Magic at Minnesota Timberwolves",
       "location": "Target Center",
       "price": "$54+"
     },
-    "3 11, WED": {
+    "3 NOV, WED": {
       "title": "Boston Celtics at Orlando Magic",
       "location": "Amway Center",
       "price": "$32+"
     },
-    "5 11, FRI": {
+    "5 NOV, FRI": {
       "title": "San Antonio Spurs at Orlando Magic",
       "location": "Amway Center",
       "price": "$23+"
     },
-    "7 11, SUN": {
+    "7 NOV, SUN": {
       "title": "Utah Jazz at Orlando Magic",
       "location": "Amway Center",
       "price": "$18+"
     },
-    "10 11, WED": {
+    "10 NOV, WED": {
       "title": "Brooklyn Nets at Orlando Magic",
       "location": "Amway Center",
       "price": "$63+"
     },
-    "13 11, SAT": {
+    "13 NOV, SAT": {
       "title": "Washington Wizards at Orlando Magic",
       "location": "Amway Center",
       "price": "$18+"
     }
   },
   "Washington Wizards": {
-    "5 10, TUE": {
+    "5 OCT, TUE": {
       "title": "Washington Wizards at Houston Rockets",
       "location": "Toyota Center",
       "price": "$31+"
     },
-    "22 10, FRI": {
+    "22 OCT, FRI": {
       "title": "Indiana Pacers at Washington Wizards",
       "location": "Capital One Arena",
       "price": "$21+"
     },
-    "25 10, MON": {
+    "25 OCT, MON": {
       "title": "Washington Wizards at Brooklyn Nets",
       "location": "Barclays Center",
       "price": "$32+"
     },
-    "27 10, WED": {
+    "27 OCT, WED": {
       "title": "Washington Wizards at Boston Celtics",
       "location": "TD Garden",
       "price": "$35+"
     },
-    "28 10, THU": {
+    "28 OCT, THU": {
       "title": "Atlanta Hawks at Washington Wizards",
       "location": "Capital One Arena",
       "price": "$25+"
     },
-    "30 10, SAT": {
+    "30 OCT, SAT": {
       "title": "Boston Celtics at Washington Wizards",
       "location": "Capital One Arena",
       "price": "$43+"
     },
-    "1 11, MON": {
+    "1 NOV, MON": {
       "title": "Washington Wizards at Atlanta Hawks",
       "location": "State Farm Arena",
       "price": "$98+"
     },
-    "3 11, WED": {
+    "3 NOV, WED": {
       "title": "Toronto Raptors at Washington Wizards",
       "location": "Capital One Arena",
       "price": "$14+"
     },
-    "5 11, FRI": {
+    "5 NOV, FRI": {
       "title": "Memphis Grizzlies at Washington Wizards",
       "location": "Capital One Arena",
       "price": "$21+"
     },
-    "7 11, SUN": {
+    "7 NOV, SUN": {
       "title": "Milwaukee Bucks at Washington Wizards",
       "location": "Capital One Arena",
       "price": "$43+"
     },
-    "13 11, SAT": {
+    "13 NOV, SAT": {
       "title": "Washington Wizards at Orlando Magic",
       "location": "Amway Center",
       "price": "$18+"
     },
-    "15 11, MON": {
+    "15 NOV, MON": {
       "title": "New Orleans Pelicans at Washington Wizards",
       "location": "Capital One Arena",
       "price": "$19+"
     },
-    "17 11, WED": {
+    "17 NOV, WED": {
       "title": "Washington Wizards at Charlotte Hornets",
       "location": "Spectrum Center",
       "price": "$11+"
     },
-    "18 11, THU": {
+    "18 NOV, THU": {
       "title": "Washington Wizards at Miami Heat",
       "location": "FTX Arena",
       "price": "$29+"
     },
-    "20 11, SAT": {
+    "20 NOV, SAT": {
       "title": "Miami Heat at Washington Wizards",
       "location": "Capital One Arena",
       "price": "$27+"
     }
   },
   "Dallas Mavericks": {
-    "6 10, WED": {
+    "6 OCT, WED": {
       "title": "Utah Jazz at Dallas Mavericks",
       "location": "American Airlines Center",
       "price": "$41+"
     },
-    "8 10, FRI": {
+    "8 OCT, FRI": {
       "title": "LA Clippers at Dallas Mavericks",
       "location": "American Airlines Center",
       "price": "$91+"
     },
-    "13 10, WED": {
+    "13 OCT, WED": {
       "title": "Dallas Mavericks at Charlotte Hornets",
       "location": "Spectrum Center",
       "price": "$10+"
     },
-    "15 10, FRI": {
+    "15 OCT, FRI": {
       "title": "Dallas Mavericks at Milwaukee Bucks",
       "location": "Fiserv Forum",
       "price": "$16+"
     },
-    "21 10, THU": {
+    "21 OCT, THU": {
       "title": "Dallas Mavericks at Atlanta Hawks",
       "location": "State Farm Arena",
       "price": "$115+"
     },
-    "26 10, TUE": {
+    "26 OCT, TUE": {
       "title": "Houston Rockets at Dallas Mavericks",
       "location": "American Airlines Center",
       "price": "$63+"
     },
-    "28 10, THU": {
+    "28 OCT, THU": {
       "title": "San Antonio Spurs at Dallas Mavericks",
       "location": "American Airlines Center",
       "price": "$54+"
     },
-    "29 10, FRI": {
+    "29 OCT, FRI": {
       "title": "Dallas Mavericks at Denver Nuggets",
       "location": "Ball Arena",
       "price": "$52+"
     },
-    "31 10, SUN": {
+    "31 OCT, SUN": {
       "title": "Sacramento Kings at Dallas Mavericks",
       "location": "American Airlines Center",
       "price": "$56+"
     },
-    "2 11, TUE": {
+    "2 NOV, TUE": {
       "title": "Miami Heat at Dallas Mavericks",
       "location": "American Airlines Center",
       "price": "$37+"
     },
-    "3 11, WED": {
+    "3 NOV, WED": {
       "title": "Dallas Mavericks at San Antonio Spurs",
       "location": "AT&T Center",
       "price": "$25+"
     },
-    "6 11, SAT": {
+    "6 NOV, SAT": {
       "title": "Boston Celtics at Dallas Mavericks",
       "location": "American Airlines Center",
       "price": "$80+"
     },
-    "8 11, MON": {
+    "8 NOV, MON": {
       "title": "New Orleans Pelicans at Dallas Mavericks",
       "location": "American Airlines Center",
       "price": "$46+"
     },
-    "10 11, WED": {
+    "10 NOV, WED": {
       "title": "Dallas Mavericks at Chicago Bulls",
       "location": "United Center",
       "price": "$39+"
     },
-    "12 11, FRI": {
+    "12 NOV, FRI": {
       "title": "Dallas Mavericks at San Antonio Spurs",
       "location": "AT&T Center",
       "price": "$34+"
     }
   },
   "Houston Rockets": {
-    "5 10, TUE": {
+    "5 OCT, TUE": {
       "title": "Washington Wizards at Houston Rockets",
       "location": "Toyota Center",
       "price": "$31+"
     },
-    "7 10, THU": {
+    "7 OCT, THU": {
       "title": "Miami Heat at Houston Rockets",
       "location": "Toyota Center",
       "price": "$27+"
     },
-    "15 10, FRI": {
+    "15 OCT, FRI": {
       "title": "Houston Rockets at San Antonio Spurs",
       "location": "AT&T Center",
       "price": "$9+"
     },
-    "20 10, WED": {
+    "20 OCT, WED": {
       "title": "Houston Rockets at Minnesota Timberwolves",
       "location": "Target Center",
       "price": "$63+"
     },
-    "22 10, FRI": {
+    "22 OCT, FRI": {
       "title": "Oklahoma City Thunder at Houston Rockets",
       "location": "Toyota Center",
       "price": "$27+"
     },
-    "24 10, SUN": {
+    "24 OCT, SUN": {
       "title": "Boston Celtics at Houston Rockets",
       "location": "Toyota Center",
       "price": "$41+"
     },
-    "26 10, TUE": {
+    "26 OCT, TUE": {
       "title": "Houston Rockets at Dallas Mavericks",
       "location": "American Airlines Center",
       "price": "$63+"
     },
-    "28 10, THU": {
+    "28 OCT, THU": {
       "title": "Utah Jazz at Houston Rockets",
       "location": "Toyota Center",
       "price": "$25+"
     },
-    "31 10, SUN": {
+    "31 OCT, SUN": {
       "title": "Houston Rockets at Los Angeles Lakers",
       "location": "Staples Center",
       "price": "$65+"
     },
-    "2 11, TUE": {
+    "2 NOV, TUE": {
       "title": "Houston Rockets at Los Angeles Lakers",
       "location": "Staples Center",
       "price": "$59+"
     },
-    "4 11, THU": {
+    "4 NOV, THU": {
       "title": "Houston Rockets at Phoenix Suns",
       "location": "Footprint Center",
       "price": "$41+"
     },
-    "6 11, SAT": {
+    "6 NOV, SAT": {
       "title": "Houston Rockets at Denver Nuggets",
       "location": "Ball Arena",
       "price": "$29+"
     },
-    "7 11, SUN": {
+    "7 NOV, SUN": {
       "title": "Houston Rockets at Golden State Warriors",
       "location": "Chase Center",
       "price": "$105+"
     },
-    "10 11, WED": {
+    "10 NOV, WED": {
       "title": "Detroit Pistons at Houston Rockets",
       "location": "Toyota Center",
       "price": "$23+"
     },
-    "12 11, FRI": {
+    "12 NOV, FRI": {
       "title": "Portland Trail Blazers at Houston Rockets",
       "location": "Toyota Center",
       "price": "$26+"
     }
   },
   "Memphis Grizzlies": {
-    "7 10, THU": {
+    "7 OCT, THU": {
       "title": "Memphis Grizzlies at Charlotte Hornets",
       "location": "Spectrum Center",
       "price": "$7+"
     },
-    "15 10, FRI": {
+    "15 OCT, FRI": {
       "title": "Memphis Grizzlies at Chicago Bulls",
       "location": "United Center",
       "price": "$12+"
     },
-    "20 10, WED": {
+    "20 OCT, WED": {
       "title": "Cleveland Cavaliers at Memphis Grizzlies",
       "location": "FedExForum",
       "price": "$9+"
     },
-    "23 10, SAT": {
+    "23 OCT, SAT": {
       "title": "Memphis Grizzlies at LA Clippers",
       "location": "Staples Center",
       "price": "$30+"
     },
-    "24 10, SUN": {
+    "24 OCT, SUN": {
       "title": "Memphis Grizzlies at Los Angeles Lakers",
       "location": "Staples Center",
       "price": "$76+"
     },
-    "27 10, WED": {
+    "27 OCT, WED": {
       "title": "Memphis Grizzlies at Portland Trail Blazers",
       "location": "Moda Center",
       "price": "$21+"
     },
-    "28 10, THU": {
+    "28 OCT, THU": {
       "title": "Memphis Grizzlies at Golden State Warriors",
       "location": "Chase Center",
       "price": "$94+"
     },
-    "30 10, SAT": {
+    "30 OCT, SAT": {
       "title": "Miami Heat at Memphis Grizzlies",
       "location": "FedExForum",
       "price": "$14+"
     },
-    "1 11, MON": {
+    "1 NOV, MON": {
       "title": "Denver Nuggets at Memphis Grizzlies",
       "location": "FedExForum",
       "price": "$5+"
     },
-    "3 11, WED": {
+    "3 NOV, WED": {
       "title": "Denver Nuggets at Memphis Grizzlies",
       "location": "FedExForum",
       "price": "$6+"
     },
-    "5 11, FRI": {
+    "5 NOV, FRI": {
       "title": "Memphis Grizzlies at Washington Wizards",
       "location": "Capital One Arena",
       "price": "$21+"
     },
-    "8 11, MON": {
+    "8 NOV, MON": {
       "title": "Minnesota Timberwolves at Memphis Grizzlies",
       "location": "FedExForum",
       "price": "$5+"
     },
-    "10 11, WED": {
+    "10 NOV, WED": {
       "title": "Charlotte Hornets at Memphis Grizzlies",
       "location": "FedExForum",
       "price": "$11+"
     },
-    "12 11, FRI": {
+    "12 NOV, FRI": {
       "title": "Phoenix Suns at Memphis Grizzlies",
       "location": "FedExForum",
       "price": "$14+"
     },
-    "13 11, SAT": {
+    "13 NOV, SAT": {
       "title": "Memphis Grizzlies at New Orleans Pelicans",
       "location": "Smoothie King Center",
       "price": "$16+"
     }
   },
   "New Orleans Pelicans": {
-    "4 10, MON": {
+    "4 OCT, MON": {
       "title": "7:00 PM\u2022Preseason Game\u2022Target Center",
       "location": "None",
       "price": "New Orleans Pelicans at Minnesota Timberwolves"
     },
-    "6 10, WED": {
+    "6 OCT, WED": {
       "title": "Orlando Magic at New Orleans Pelicans",
       "location": "Smoothie King Center",
       "price": "$8+"
     },
-    "8 10, FRI": {
+    "8 OCT, FRI": {
       "title": "New Orleans Pelicans at Chicago Bulls",
       "location": "United Center",
       "price": "$18+"
     },
-    "11 10, MON": {
+    "11 OCT, MON": {
       "title": "New Orleans Pelicans at Utah Jazz",
       "location": "Vivint Smart Home Arena",
       "price": "$11+"
     },
-    "20 10, WED": {
+    "20 OCT, WED": {
       "title": "Philadelphia 76ers at New Orleans Pelicans",
       "location": "Smoothie King Center",
       "price": "$18+"
     },
-    "22 10, FRI": {
+    "22 OCT, FRI": {
       "title": "New Orleans Pelicans at Chicago Bulls",
       "location": "United Center",
       "price": "$52+"
     },
-    "23 10, SAT": {
+    "23 OCT, SAT": {
       "title": "New Orleans Pelicans at Minnesota Timberwolves",
       "location": "Target Center",
       "price": "$67+"
     },
-    "25 10, MON": {
+    "25 OCT, MON": {
       "title": "New Orleans Pelicans at Minnesota Timberwolves",
       "location": "Target Center",
       "price": "$63+"
     },
-    "27 10, WED": {
+    "27 OCT, WED": {
       "title": "Atlanta Hawks at New Orleans Pelicans",
       "location": "Smoothie King Center",
       "price": "$14+"
     },
-    "29 10, FRI": {
+    "29 OCT, FRI": {
       "title": "Sacramento Kings at New Orleans Pelicans",
       "location": "Smoothie King Center",
       "price": "$13+"
     },
-    "30 10, SAT": {
+    "30 OCT, SAT": {
       "title": "New York Knicks at New Orleans Pelicans",
       "location": "Smoothie King Center",
       "price": "$20+"
     },
-    "2 11, TUE": {
+    "2 NOV, TUE": {
       "title": "New Orleans Pelicans at Phoenix Suns",
       "location": "Footprint Center",
       "price": "$74+"
     },
-    "3 11, WED": {
+    "3 NOV, WED": {
       "title": "New Orleans Pelicans at Sacramento Kings",
       "location": "Golden 1 Center",
       "price": "$37+"
     },
-    "5 11, FRI": {
+    "5 NOV, FRI": {
       "title": "New Orleans Pelicans at Golden State Warriors",
       "location": "Chase Center",
       "price": "$147+"
     },
-    "8 11, MON": {
+    "8 NOV, MON": {
       "title": "New Orleans Pelicans at Dallas Mavericks",
       "location": "American Airlines Center",
       "price": "$46+"
     }
   },
   "San Antonio Spurs": {
-    "4 10, MON": {
+    "4 OCT, MON": {
       "title": "Utah Jazz at San Antonio Spurs",
       "location": "AT&T Center",
       "price": "$7+"
     },
-    "8 10, FRI": {
+    "8 OCT, FRI": {
       "title": "Miami Heat at San Antonio Spurs",
       "location": "AT&T Center",
       "price": "$9+"
     },
-    "10 10, SUN": {
+    "10 OCT, SUN": {
       "title": "San Antonio Spurs at Orlando Magic",
       "location": "Amway Center",
       "price": "$13+"
     },
-    "15 10, FRI": {
+    "15 OCT, FRI": {
       "title": "Houston Rockets at San Antonio Spurs",
       "location": "AT&T Center",
       "price": "$9+"
     },
-    "20 10, WED": {
+    "20 OCT, WED": {
       "title": "Orlando Magic at San Antonio Spurs",
       "location": "AT&T Center",
       "price": "$15+"
     },
-    "22 10, FRI": {
+    "22 OCT, FRI": {
       "title": "San Antonio Spurs at Denver Nuggets",
       "location": "Ball Arena",
       "price": "$40+"
     },
-    "23 10, SAT": {
+    "23 OCT, SAT": {
       "title": "Milwaukee Bucks at San Antonio Spurs",
       "location": "AT&T Center",
       "price": "$25+"
     },
-    "26 10, TUE": {
+    "26 OCT, TUE": {
       "title": "Los Angeles Lakers at San Antonio Spurs",
       "location": "AT&T Center",
       "price": "$60+"
     },
-    "28 10, THU": {
+    "28 OCT, THU": {
       "title": "San Antonio Spurs at Dallas Mavericks",
       "location": "American Airlines Center",
       "price": "$54+"
     },
-    "30 10, SAT": {
+    "30 OCT, SAT": {
       "title": "San Antonio Spurs at Milwaukee Bucks",
       "location": "Fiserv Forum",
       "price": "$60+"
     },
-    "1 11, MON": {
+    "1 NOV, MON": {
       "title": "San Antonio Spurs at Indiana Pacers",
       "location": "Bankers Life Fieldhouse",
       "price": "$15+"
     },
-    "3 11, WED": {
+    "3 NOV, WED": {
       "title": "Dallas Mavericks at San Antonio Spurs",
       "location": "AT&T Center",
       "price": "$25+"
     },
-    "5 11, FRI": {
+    "5 NOV, FRI": {
       "title": "San Antonio Spurs at Orlando Magic",
       "location": "Amway Center",
       "price": "$23+"
     },
-    "7 11, SUN": {
+    "7 NOV, SUN": {
       "title": "San Antonio Spurs at Oklahoma City Thunder",
       "location": "Paycom Center",
       "price": "$15+"
     },
-    "10 11, WED": {
+    "10 NOV, WED": {
       "title": "Sacramento Kings at San Antonio Spurs",
       "location": "AT&T Center",
       "price": "$12+"

@@ -17,7 +17,7 @@
         <img class = "logo"  src="{% static 'Images/logo.png' %}" alt="">
         <nav>
             <ul>
-                <li><a href="#">HOME</a></li>
+                <li><a href="{% url 'gameTickets:index' %}">HOME</a></li>
                 <li><a id = "about" href="#">ABOUT</a></li>
             </ul>
         </nav>
@@ -28,7 +28,8 @@
             <h1>NBA TICKET EXPLORER</h1>
         </div>
         <div class = "col">
-            <button type="button" class="btn">Explore</button>
+            <a href="{% url 'gameTickets:dashboard' %}">
+            <button type="button" class="btn">Explore</button></a>
         </div>
     </div>
 
